@@ -18,6 +18,7 @@ Or add [ONScripter-EN](https://github.com/Galladite27/ONScripter-EN) to your [PA
 To run the game, execute the following command in the terminal
 ```onscripter-r```
 
+
 **Compile nscript**
 
 Add [ONScripter tools](https://kaisernet.org/onscripter/) to your [PATH](https://learn.microsoft.com/en-us/previous-versions/office/developer/sharepoint-2010/ee537574(v=office.14)) enviroment variable
@@ -27,9 +28,11 @@ Add [ONScripter tools](https://kaisernet.org/onscripter/) to your [PATH](https:/
 Execute the following command in the terminal
 ```nscmake -o nscript.dat nscript.txt```
 
+
 **Decompile arc.sar**
 in the root folder execute
 ```sardec -o sar arc.sar```
+
 
 **Compile arc.sar**
 In the decompiled sar folder execute
