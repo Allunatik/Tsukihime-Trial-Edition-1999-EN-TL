@@ -13,14 +13,15 @@ Grab [ONScripter-EN](https://github.com/Galladite27/ONScripter-EN) follow the in
 
 Or add [ONScripter-EN](https://github.com/Galladite27/ONScripter-EN) to your [PATH](https://learn.microsoft.com/en-us/previous-versions/office/developer/sharepoint-2010/ee537574(v=office.14)) enviroment variable
 
-Add [ONScripter tools](https://kaisernet.org/onscripter/) to your [PATH](https://learn.microsoft.com/en-us/previous-versions/office/developer/sharepoint-2010/ee537574(v=office.14)) enviroment variable
 -Start > Advanced system settings > enviroment variables > path > edit > new > "%USERPROFILE%\AppData\Local\onscripter-en"> Ok
 
 To run the game, execute the following command in the terminal
 -onscripter-r
 
 Compile nscript
-Add [Onscripter tools]()
+
+Add [ONScripter tools](https://kaisernet.org/onscripter/) to your [PATH](https://learn.microsoft.com/en-us/previous-versions/office/developer/sharepoint-2010/ee537574(v=office.14)) enviroment variable
+
 -Start > Advanced system settings > enviroment variables > path > edit > new > "%USERPROFILE%\AppData\Local\onscripter-en"> Ok
 
 Execute the following command in the terminal
