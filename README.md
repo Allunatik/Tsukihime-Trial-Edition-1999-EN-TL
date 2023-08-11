@@ -29,14 +29,14 @@ Execute the following command in the terminal
 
 ## Translation cheat sheet
 ```
-` Indicates the start of a English line
--@ Continue prompt - pauses until click - can @ chain @ multiple on the same line
--br - add empty line - i.e if adding spaces between two rows of text
--\ page break (also works as a continue prompt) -  new blank page
--"" Quotation marks need to be replaced with ` `
+- ` Indicates the start of a English line
+- @ Continue prompt - pauses until click - can @ chain @ multiple on the same line
+- br - add empty line - i.e if adding spaces between two rows of text
+- \ page break (also works as a continue prompt) -  new blank page
+- "" Quotation marks need to be replaced with ` `
 - -- or ---- replace em lines, depending on their length
--JP Full width spaces - 2x EN half width spaces, if mimicking long "pauses" add enough to fill space roughly
--Max character count before a break: 745~
+- JP Full width spaces - 2x EN half width spaces, if mimicking long "pauses" add enough to fill space roughly
+- Max character count before a break: 745~
 - Lines: 15 (Absolute max)```
 ```
 
