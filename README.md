@@ -40,6 +40,6 @@ Execute the following command in the terminal
 - Lines: 15 (Absolute max)```
 ```
 
-**API**
+### API
 If you wish to know further what a piece of script does
 https://kaisernet.org/onscripter/api/NScrAPI.html
