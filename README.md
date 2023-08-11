@@ -27,9 +27,7 @@ Add [ONScripter tools](https://kaisernet.org/onscripter/) to your [PATH](https:/
 Execute the following command in the terminal
 ```nscmake -o nscript.dat nscript.txt```
 
-## Translation notes
-
-**TLDR;**
+## Translation cheat sheet
 ```
 ` Indicates the start of a English line
 -@ Continue prompt - pauses until click - can @ chain @ multiple on the same line
