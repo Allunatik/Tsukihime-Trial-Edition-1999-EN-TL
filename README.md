@@ -16,8 +16,7 @@ Or add [ONScripter-EN](https://github.com/Galladite27/ONScripter-EN) to your [PA
 -Start > Advanced system settings > enviroment variables > path > edit > new > "%USERPROFILE%\AppData\Local\onscripter-en"> Ok
 
 To run the game, execute the following command in the terminal
-
-"onscripter-r"
+```onscripter-r```
 
 Compile nscript
 
@@ -26,5 +25,4 @@ Add [ONScripter tools](https://kaisernet.org/onscripter/) to your [PATH](https:/
 -Start > Advanced system settings > enviroment variables > path > edit > new > "%USERPROFILE%\AppData\Local\onscripter-en"> Ok
 
 Execute the following command in the terminal
-
-"nscmake -o nscript.dat nscript.txt"
+```nscmake -o nscript.dat nscript.txt```
