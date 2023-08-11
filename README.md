@@ -12,8 +12,8 @@ This project's goal is to patch, restore and translate the 767 lines of gamescri
 ### Running the game
 
 Add [ONScripter-EN](https://github.com/Galladite27/ONScripter-EN) to your [PATH](https://learn.microsoft.com/en-us/previous-versions/office/developer/sharepoint-2010/ee537574(v=office.14)) enviroment variable
--Place the file(s) in a folder in %USERPROFILE%\AppData\Local\ called "onscripter-en"
--Start > Advanced system settings > enviroment variables > path > edit > new > "%USERPROFILE%\AppData\Local\onscripter-en"> Ok
+-1Place the file(s) in a folder in %USERPROFILE%\AppData\Local\ called "onscripter-en"
+-2Start > Advanced system settings > enviroment variables > path > edit > new > "%USERPROFILE%\AppData\Local\onscripter-en"> Ok
 
 To run the game, execute the following command in the terminal
 ```onscripter-r```
