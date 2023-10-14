@@ -481,7 +481,7 @@ bg "image\ark1.jpg",3
 br
 ;　アルクェイド・ブリュンスタッド\
 ;TL Note - this romanization was the one used on the old website promoting Tsukihime before it was released, so we may as well use it! (https://shikura.neocities.org/99thcomiket/item/ark/ark_in)
-　Arkaid Brynsted
+　Arkaid Brynsted\
 
 ;　吸血鬼。
 　Vampire.　
@@ -524,7 +524,7 @@ take responsibility.\
 bg "image\aki1.jpg",3
 br
 ;　遠野秋葉\
-　Tohno Akiha
+　Tohno Akiha\
 
 ;　主人公の妹。
 　The protagonist's younger sister.
@@ -577,29 +577,47 @@ we're siblings, after all."\
 ;シエル
 bg "image\ciel1.jpg",3
 br
-シエル\
+;シエル\
+Ciel\
 
-主人公のかよう高校の先輩。
-誰とでも仲がいいくせに、シエル本人のことについて/
-詳しい生徒はいないという謎の先輩。
-主人公にとっては先輩というより同級生、同級生という/
-よりは友人で、頼りになる相談役でもある。
+;主人公のかよう高校の先輩。
+An upperclassman who attends the same school as the protagonist.
+;誰とでも仲がいいくせに、シエル本人のことについて/
+For someone who gets along with everyone, she is unusually mysterious,/
+;詳しい生徒はいないという謎の先輩。
+and no student knows very much about her.
+;主人公にとっては先輩というより同級生、同級生という/
+Rather than an upperclassman, she is more like a normal classmate, or even friend,/
+;よりは友人で、頼りになる相談役でもある。
+to the protagonist, and someone he can count on for advice.
 
-明るく前向きで、世話好きというこれ以上ないというほ/
-どのいい人。
-　誰に対しても丁寧な言葉遣いをする。
-黒ぶちのメガネとしゃきしゃきと小気味よく動き回る行/
-動がトレードマーク。
+;明るく前向きで、世話好きというこれ以上ないというほ/
+Cheerful and positive-minded, she is a good person to a fault,/
+;どのいい人。
+who loves to help others out.
+;　誰に対しても丁寧な言葉遣いをする。
+　She speaks politely to everyone she talks to.
+;黒ぶちのメガネとしゃきしゃきと小気味よく動き回る行/
+Her trademarks are her black-rimmed glasses and the brisk and agile
+;動がトレードマーク。
+way she moves about.
 　
-本編のヒロインの一人。
-顔とキャラクターに似合わず、なんでか何らかの刃物/
-をいつも携帯している。さいわい刃物を振り回したりする/
-ことはないので安心です。\
+;本編のヒロインの一人。
+One of the heroines of the story.
+;顔とキャラクターに似合わず、なんでか何らかの刃物/
+From her looks, you'd never guess she 's always carrying around some sort of /
+;をいつも携帯している。さいわい刃物を振り回したりする/
+blades. Luckily, she never swings them about,/
+;ことはないので安心です。\
+so you can rest easy.\
 
 bg "image\ciel2.jpg",3
-「ま、しかたないですね。わたし、昔っから誰かの世話を/
-やくのが好きなんです。だから志貴くんが立ち直るまで、/
-ずっと一緒にいてあげますよ」\
+;「ま、しかたないですね。わたし、昔っから誰かの世話を/
+"Oh, what choice do I have? I've always, since way back, really/
+;やくのが好きなんです。だから志貴くんが立ち直るまで、/
+liked helping people out. So until you can make it own your own again,/
+;ずっと一緒にいてあげますよ」\
+I'll be with you the whole way."
 
 ;翡翠と琥珀
 bg "image\hisui.jpg",3
