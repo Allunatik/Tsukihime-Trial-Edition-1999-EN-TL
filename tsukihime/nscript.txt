@@ -301,24 +301,41 @@ rmode 1
 
 ;背景画像を表示
 bg "image\inforbg.jpg",3
-「月姫～つきひめ～_」は、サークル「ＴＹＰＥ－ＭＯＯＮ_」で現在制作中のサウンドノベル/
-形式のアドベンチャーゲームです。
-人の「死_」の線を見るという特殊な目を持つ主人公「遠野志貴_」と、神秘的で可憐な３人の/
-ヒロインを主軸にしてゲームは展開して行きます。
-それぞれの運命、それぞれの闘い、そしてそれぞれの恋愛。
-既存のゲームに負けないものを目指して、鋭意制作中です。
-ご期待ください。\
+;「月姫～つきひめ～_」は、サークル「ＴＹＰＥ－ＭＯＯＮ_」で現在制作中のサウンドノベル/
+Tsukihime is a sound novel currently in production at our doujin-circle TYPE-MOON./
+;形式のアドベンチャーゲームです。
+;TL Note - the sheer nuance アドベンチャーゲーム contains cannot be conveyed in a single English word, and simply leaving it as "Adventure Game" would ensure literally nobody who speaks English and not Japanese understands what is being said. I considered calling it a "visual novel", but they already called it a "Sound Novel" above so lmao.
+It has multiple branching paths and endings./
+;人の「死_」の線を見るという特殊な目を持つ主人公「遠野志貴_」と、神秘的で可憐な３人の/
+It's a game which revolves around the protagonist Tohno Shiki, who possesses a pair of special eyes that can see the "lines of death",
+;ヒロインを主軸にしてゲームは展開して行きます。
+as well as the three enigmatic and alluring heroines.
+;それぞれの運命、それぞれの闘い、そしてそれぞれの恋愛。
+Each with their own fates, battles and romances.
+;既存のゲームに負けないものを目指して、鋭意制作中です。
+We aim to create something that matches up with other games in the space, and are hard at work producing the game.
+;ご期待ください。\
+I hope you'll look forward to it.
 
-このフロッピーは「月姫_」の告知用に作られたものです。
-メインコンテンツとして「物語のあらすじ_」と「キャラクター紹介_」を用意しました。
-キャラクター紹介では、キャラクターの立ち絵と表情集の他、イベントのイメージシーンや、/
-Ｈシーンも入っています。
-文章や画像は制作中のものの為、実際のゲームで使われるものとは異なる可能性がありますが、/
-少しでも作品の雰囲気やキャラクターの魅力を伝えれることが出来れば幸いです。\
+;このフロッピーは「月姫_」の告知用に作られたものです。
+This floppy disk was created to promote Tsukihime.
+;メインコンテンツとして「物語のあらすじ_」と「キャラクター紹介_」を用意しました。
+Its primary contents include a plot synopsis and character introduction.
+;キャラクター紹介では、キャラクターの立ち絵と表情集の他、イベントのイメージシーンや、/
+In the character introduction, we have included character sprites, expression sheets, event CGs,/
+;Ｈシーンも入っています。
+as well as H-scenes.
+;文章や画像は制作中のものの為、実際のゲームで使われるものとは異なる可能性がありますが、/
+Both text and images are a work in progress, and as such, it is possible they won't be used in the actual game./
+;少しでも作品の雰囲気やキャラクターの魅力を伝えれることが出来れば幸いです。\
+However, if that's enough to convey the atmosphere of the game and the characters' charms, we couldn't be happier.
 
-「月姫_」の発売は２０００年の初旬を予定しています。
-販売形式は、イベント、委託のほか、通販も考えております。
-発売時期、販売形式の詳細はＨＰにて告知して行きますので、そちらを参考にしてください。\
+;「月姫_」の発売は２０００年の初旬を予定しています。
+Tsukihime is planned to be available for purchase in early 2000.
+;販売形式は、イベント、委託のほか、通販も考えております。
+We are considering selling the game through events, consignment as well as mail order.
+;発売時期、販売形式の詳細はＨＰにて告知して行きますので、そちらを参考にしてください。\
+The details regarding release date and sales format will be announced on our website, so be sure to look there for more information.
 
 ;--------------------------------------------+----------------------------------
 ;	スクリプトブロック終了
