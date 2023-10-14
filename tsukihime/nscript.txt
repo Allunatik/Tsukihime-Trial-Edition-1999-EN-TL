@@ -512,7 +512,7 @@ She is a pleasant girl with an appearance and character you'd never expect/
 ;いきなり殺されるというかつてない登場を\するさわやか/
 from a vampire, whose unprecedented introduction is a scene/
 ;系のおんなのこ。\
-where she gets suddenly killed by the protagonist.
+where she gets suddenly killed by the protagonist.\
 
 bg "image\ark2.jpg",3
 ;「言ったでしょ？　あなたはわたしを殺したんだから、責/
@@ -523,33 +523,56 @@ take responsibility.\
 ;秋葉
 bg "image\aki1.jpg",3
 br
-　遠野秋葉\
+;　遠野秋葉\
+　Tohno Akiha
 
-　主人公の妹。
-資産家である遠野家の現在の当主。
-主人公より一歳歳下で、全寮制のカトリック学園の一/
-年生。
-どこから見ても完璧な良家のお嬢様で、主人公と血が/
-繋がっているのは何かの間違いとよくいわれる。
-まだ主人公が遠野の屋敷で暮らしていたころは仲が良/
-かったらしいのだが、現在の主人公とはまるっきり他人/
-のような\同居生活になってしまっている。
+;　主人公の妹。
+　The protagonist's younger sister.
+;資産家である遠野家の現在の当主。
+The current head of the plutocrat Tohno family.
+;主人公より一歳歳下で、全寮制のカトリック学園の一/
+One year younger than the protagonist. Attends a catholic boarding school/
+;年生。
+and is in her first year of high school.
+;どこから見ても完璧な良家のお嬢様で、主人公と血が/
+By all appearances, she is a model young lady from a well-off family, and she is often told/
+;繋がっているのは何かの間違いとよくいわれる。
+that her being related to the protagonist must be some kind of mistake.
+;まだ主人公が遠野の屋敷で暮らしていたころは仲が良/
+She apparently got along well with the protagonist when he lived in the mansion,/
+;かったらしいのだが、現在の主人公とはまるっきり他人/
+but the way the two live together now, she treats him like/
+;のような\同居生活になってしまっている。
+he is a completely different person.
 
-黒い長髪が印象的な、典型的日本美人。
-一途な性格で、何事にも厳しいので生まれついての委/
-員長タイプ。
-自由奔放に育ってきた主人公とは違い、厳しい英才教/
-育をうけたためにがっちがっちの\お堅い人となりになっ/
-てしまっている。
+;黒い長髪が印象的な、典型的日本美人。
+She has long black hair stereotypical of the traditional Japanese beauty.
+;一途な性格で、何事にも厳しいので生まれついての委/
+She has a single-minded personality, and is strict about everything――born to be a student council president/
+;員長タイプ。
+type of person.
+;自由奔放に育ってきた主人公とは違い、厳しい英才教/
+In contrast to the protagonist, who was raised with freedom to enjoy, she received/
+;育をうけたためにがっちがっちの\お堅い人となりになっ/
+a strict upbringing and has become a very straight-laced/
+;てしまっている。
+person as a result.
 
-本編のヒロインの一人。
-屋敷に戻ってきた主人公の無作法さに文句をいいつつ/
-も、きちんと主人公を「兄さん」と呼ぶ素直じゃない女の/
-子。\
+;本編のヒロインの一人。
+One of the heroines of the story.
+;屋敷に戻ってきた主人公のiさに文句をいいつつ/
+She constantly berates the protagonist after he's returned to the mansion for his/
+;も、きちんと主人公を「兄さん」と呼ぶ素直じゃない女の/
+unrefined manners, but still dutifully addresses him as "nii-san"――someone who can't be honest with their own/
+;子。\
+feelings.\
 
 bg "image\aki2.jpg",3
-「…仲はいいとおもうけど。わたしと兄さんは、まあ、兄/
-妹なんだから」\
+;「…仲はいいとおもうけど。わたしと兄さんは、まあ、兄/
+"I think we're on good terms, because me and Nii-san, well.../
+;妹なんだから」\
+we're siblings, after all."\
+
 
 ;シエル
 bg "image\ciel1.jpg",3
