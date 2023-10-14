@@ -182,7 +182,7 @@ br
 ;　やがて路地裏に追いつめられた志貴に、彼女は自らの正体を明かす。
 　Soon finding himself cornered in a back alley, the woman revealed her identity to Shiki.
 ;　彼女の名はアルクェイド。なんでも人間には吸血鬼と呼ばれる不死の生物という事だ。
-Her name was Arcueid. Apparently she was a undying creature known by humans as a vampire
+Her name was Arkaid. Apparently she was a undying creature known by humans as a vampire
 br
 ;　―――なんて、出来の悪い笑い話。
 　...Talk about a bad joke.
@@ -199,7 +199,7 @@ br
 ;　少女の姿をした吸血鬼は志貴を見てにこりと微笑む。
 　The maidenly vampire looked at Shiki and flashed a bright smile.
 ;　アルクェイドは志貴に復讐するつもりなどなく、むしろその能力を評価していた。
-　Arcueid had no intentions of enacting vengeance upon Shiki, on the contrary, she had been impressed by his abilities.
+　Arkaid had no intentions of enacting vengeance upon Shiki, on the contrary, she had been impressed by his abilities.
 ;　過去においていかなる手段をもってしても殺されなかった自分を一瞬にしてバラした人間。
 　A human who could dismember her in an instant when in the past not a single method had been capable of slaying her.
 ;　その力があるのなら、彼女が長く処刑できずにいた同族を殺せるのではないか、と期待して。\
@@ -479,28 +479,46 @@ rmode 1
 ;アルクェイド
 bg "image\ark1.jpg",3
 br
-　アルクェイド・ブリュンスタッド\
+;　アルクェイド・ブリュンスタッド\
+;TL Note - this romanization was the one used on the old website promoting Tsukihime before it was released, so we may as well use it! (https://shikura.neocities.org/99thcomiket/item/ark/ark_in)
+　Arkaid Brynsted
 
-　吸血鬼。
-真祖とよばれる「人間外_」の吸血種の王族。
-ある事情で日本にやってきて、主人公と知り合う。
-世間ズレしていて人間としての常識にかけているけれ/
-ど、人間社会に害はおよぼさない。
-というより、人間については関心がもてないご様子。
+;　吸血鬼。
+　Vampire.　
+;真祖とよばれる「人間外_」の吸血種の王族。
+Royalty among the inhuman bloodsuckers known as the True Ancestors.
+;ある事情で日本にやってきて、主人公と知り合う。
+She arrives in Japan because of personal circumstances and so becomes acquainted with the protagonist.
+;世間ズレしていて人間としての常識にかけているけれ/
+She is not wise in the way of the world and lacks human common sense,/
+;ど、人間社会に害はおよぼさない。
+but does not cause harm to human society.
+;というより、人間については関心がもてないご様子。
+Or more accurately, it appears humans don't interest her at all.
 
-黙っていればお姫さま然としているのに、口を開けると/
-そこいらの女の子とかわらないほど気さくな性格になる。
-好き嫌いをはっきりさせるし、口より手のほうが先に出/
-るあたりをみるとわりと直情的な性格であるらしい。
+;黙っていればお姫さま然としているのに、口を開けると/
+When she keeps her mouth shut, she has the aura of a princess, but when she doesn't,/
+;そこいらの女の子とかわらないほど気さくな性格になる。
+her personality becomes so casual that she's no different from just about any normal girl.
+;好き嫌いをはっきりさせるし、口より手のほうが先に出/
+Given how she always making her preferences very clear, and how she always acts before/
+;るあたりをみるとわりと直情的な性格であるらしい。
+thinking, it seems she has a rather forthright personality.
 
-本編における正ヒロイン。
-吸血鬼にあるまじき外見と体質をしていて、主人公に/
-いきなり殺されるというかつてない登場を\するさわやか/
-系のおんなのこ。\
+;本編における正ヒロイン。
+The main heroine of the story.
+;吸血鬼にあるまじき外見と体質をしていて、主人公に/
+She is a pleasant girl with an appearance and character you'd never expect/
+;いきなり殺されるというかつてない登場を\するさわやか/
+from a vampire, whose unprecedented introduction is a scene/
+;系のおんなのこ。\
+where she gets suddenly killed by the protagonist.
 
 bg "image\ark2.jpg",3
-「言ったでしょ？　あなたはわたしを殺したんだから、責/
-任とってもらうって」\
+;「言ったでしょ？　あなたはわたしを殺したんだから、責/
+I told you, didn't I? That since you killed me, you'll have to /
+;任とってもらうって」\
+take responsibility.\
 
 ;秋葉
 bg "image\aki1.jpg",3
