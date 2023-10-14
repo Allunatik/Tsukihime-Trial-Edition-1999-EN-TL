@@ -548,7 +548,7 @@ he is a completely different person.
 ;黒い長髪が印象的な、典型的日本美人。
 She has long black hair stereotypical of the traditional Japanese beauty.
 ;一途な性格で、何事にも厳しいので生まれついての委/
-She has a single-minded personality, and is strict about everything――born to be a student council president/
+She has a single-minded personality, and is strict about everything――a born student council president/
 ;員長タイプ。
 type of person.
 ;自由奔放に育ってきた主人公とは違い、厳しい英才教/
@@ -644,13 +644,13 @@ br
 ;主人公が住む事になる屋敷に仕える双子のメイドの一人。
 One of the twin maids who serves at the mansion that the protagonist lives at.
 ;妹である秋葉つきのメイドで、屋敷の家事全般をとりしきっている。
-The maid assigned to the protagonist's sister Akiha who manages all of the chores in the mansion.
+The maid who manages all of the chores in the mansion, assigned to the protagonist's sister Akiha.
 ;明るく気さく。笑顔をたやさないほごらかな人柄。
-Cheerful, friendly, always smiling, and with  a warm disposition. 
+Cheerful, friendly, always smiling, and with a warm disposition. 
 ;本人はかなりしっかりしているのに、なぜかトラブルを巻き起こす。
 For how dependable she can be, she is always causing problems for whatever reason.
 ;なにかと猟奇猟奇している本編でのなごみ担当。…らしい。\
-There to provide moments of leisure to the rather grotesque story... apparently.
+There to provide moments of leisure to the rather grotesque story... apparently.\
 
 ;-------------------------------------------------------------------------------
 ;	スクリプトブロック終了
@@ -681,35 +681,63 @@ bg "image\ark_i.jpg",3
 br
 br
 br
-イベントシーン\
-ベッドで横になったまま、ごろんと首を横にする。
-とたん――何も、考えられなくなった。
-「あ、やっと起きたな、こいつめ」
-さもそこに居るのが当然、といったようにアルクェイド/
-がそこにいた。\
+;イベントシーン\
+Event scene\
+;ベッドで横になったまま、ごろんと首を横にする。
+Still lying down in bed, I flop my head to side.
+;とたん――何も、考えられなくなった。
+For a second... I cease being able to think about anything.
+;「あ、やっと起きたな、こいつめ」
+"Ah, finally awake, aren't you, you little punk."
+;さもそこに居るのが当然、といったようにアルクェイド/
+There, seeming almost like it is the most natural thing in the world,/
+;がそこにいた。\
+is Arcueid.\
 
-「お、お、お、ま、え」
-　あまりの出来事に何を言うべきかわからない。
-「うそつき。また明日って約束したのに」
-「それにね、ほんとはわたし、もっと怒ってたんだから。
-何時間も待ちぼうけで約束を反故させられたんだって気/
-づいた時は自分でも驚くぐらい頭に血がのぼったわ。こ/
-のままじゃすまさない、乗り込んでいって殺してやるって/
-思ったぐらいに」\
-「―――たまんねえな、そりゃあ」
-自分の首が無事なのをかみさまに感謝しながら、そん/
-な相づちをうた。
-「そうしてここに忍び込んだんだけど、志貴が眠ってたか/
-ら待ってあげることにしたの。やる事もないし、しばらく/
-あなたの寝顔を見てた。…うん、恐いくらい、静かだった。
-死んでいるみたいに眠っていて、もう起きあがる事はな/
-いんじゃないかって不安になったぐらいに」\
-「…不安だったら起こしてくれ。こっちはおまえに横にい/
-られるほうがよっぽど不安だよ」
-「でも、起こすのももったいなかった。…わたし、自分が/
-眠っている姿はしらないけど、あなたみたいに眠れるの/
-なら幸せかもしれないって思えてきちゃった。…で、気/
-がついたら気持ちが落ち着いてたの」\
+;「お、お、お、ま、え」
+"Y-Y-Y-You!"
+;　あまりの出来事に何を言うべきかわからない。
+　The absurdness of what's playing out before me has left me at a loss for words.
+;「うそつき。また明日って約束したのに」
+"You liar. Hadn't we promised to meet at night?"
+;「それにね、ほんとはわたし、もっと怒ってたんだから。
+"Oh, and just for your information, I was actually way angrier before.
+;何時間も待ちぼうけで約束を反故させられたんだって気/
+After I'd been left waiting for hours and hours and noticed our promise had been broken,/
+;づいた時は自分でも驚くぐらい頭に血がのぼったわ。こ/
+I got so upset it surprised even me./
+;のままじゃすまさない、乗り込んでいって殺してやるって/
+It was so bad I thought I'd better barge in here and kill you/
+;思ったぐらいに」\
+or else I don't know what would happen."
+;「―――たまんねえな、そりゃあ」
+"Well, that's great, ain't it..."
+;自分の首が無事なのをかみさまに感謝しながら、そん/
+I mutter a performative response while thanking God/
+;な相づちをうた。
+that my head is still attached to my neck.
+;「そうしてここに忍び込んだんだけど、志貴が眠ってたか/
+"And then I snuck in here, but you were still sleeping,/
+;ら待ってあげることにしたの。やる事もないし、しばらく/
+so I decided to wait for you. I had nothing to do, so for a while/
+;あなたの寝顔を見てた。…うん、恐いくらい、静かだった。
+I just watched your sleeping face... and... it was almost... scarily quiet.
+;死んでいるみたいに眠っていて、もう起きあがる事はな/
+The way you slept was almost like you were dead――so much so that/
+;いんじゃないかって不安になったぐらいに」\
+I got worried you'd never wake up ever again."
+;「…不安だったら起こしてくれ。こっちはおまえに横にい/
+"If you were worried then wake me up. Having you right next to me/
+;られるほうがよっぽど不安だよ」
+has got me way more worried, personally."
+;「でも、起こすのももったいなかった。…わたし、自分が/
+"But... waking you up would've been a waste. Myself, I don't know/
+;眠っている姿はしらないけど、あなたみたいに眠れるの/
+how I look when I'm sleeping, but if I could sleep the way you do,/
+;なら幸せかもしれないって思えてきちゃった。…で、気/
+I started thinking that'd be wonderful in a way... and then, before I knew it,/
+;がついたら気持ちが落ち着いてたの」\
+I'd calmed down.\
 
 bg "image\ark_h1.jpg",3
 
