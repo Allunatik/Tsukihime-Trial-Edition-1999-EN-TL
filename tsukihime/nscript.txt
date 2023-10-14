@@ -22,117 +22,197 @@ rmode 1
 bg "image\storybg.jpg",3
 ――――初めに。
 br
-　私立高校の二年生である遠野志貴は、人より少しだけ特別な力があった。
-　それはおそらく、他の誰も持っていないであろう特殊な視力。
-　子供のころ事故で死にかけたことのある志貴は蘇生してからというもの、/
-物の『死』を見てしまうようになっていたのだ。
-　どんな物体、どんな生物にも壊れやすい一点、そこをなぞれば『殺して』しまう/
-線というモノがある。
-　志貴の両目は、そういった概念でしかないモノを捉えられるようになっていた。\
+;　私立高校の二年生である遠野志貴は、人より少しだけ特別な力があった。
+　The second-year high school student Tohno Shiki has a power that's a bit more special that most's.
+;　それはおそらく、他の誰も持っていないであろう特殊な視力。
+　It is an extraordinary ability of sight which, in most likelihood, nobody else but him possesses.
+:　子供のころ事故で死にかけたことのある志貴は蘇生してからというもの、/
+　Ever since reviving from the accident that almost killed him when he was a child/
+;物の『死』を見てしまうようになっていたのだ。
+Shiki has been able to see the "death" of things.
+;　どんな物体、どんな生物にも壊れやすい一点、そこをなぞれば『殺して』しまう/
+　In all objects, and all life, exists a point where they are most easily broken,/
+;線というモノがある。
+lines which when traced "kill" the object in question.
+;　志貴の両目は、そういった概念でしかないモノを捉えられるようになっていた。\
+　Shiki's eyes have become capable of perceiving this kind of exclusively conceptual phenomenon.\
 
-　けれど、それが特別なことかといえば、実際はあまりたいしたことでもなかった。
-　ただ『死』が見えてしまうだけの志貴の体質は、幽霊が見れるといった程度のものでしかない。
+;　けれど、それが特別なことかといえば、実際はあまりたいしたことでもなかった。
+　Nevertheless, as tempting as it is to think of that as special, it really isn't all that great.
+;　ただ『死』が見えてしまうだけの志貴の体質は、幽霊が見れるといった程度のものでしかない。
+　Shiki's ability to see death is only about as special as being able to see ghosts or such.
 br
-　むしろ、そういった『他人とは違う自分だけの固有の才能』というものは/
-誰にだってそなわっているもので、自分のこんな体質もじっさいは珍しいものじゃないと思う―――。
+;　むしろ、そういった『他人とは違う自分だけの固有の才能』というものは/
+　In fact, these kinds of unique talents held exclusively by oneself, and nobody else,
+;誰にだってそなわっているもので、自分のこんな体質もじっさいは珍しいものじゃないと思う―――。
+are something which everyone has within them, and so, Shiki doesn't see his condition as something all that rare.
 br
-　そんな楽観をしたまま、志貴はぼんやりとした学園生活をおくっていた。\
+;　そんな楽観をしたまま、志貴はぼんやりとした学園生活をおくっていた。\
+　Armed with that sort of positive outlook, Shiki aimlessly goes about his normal life at school.\
 
-　十月、初秋。
-　いままで養子あつかいで親戚の家にあずけられていた志貴は、五年ぶりに本家である/
-遠野の屋敷に舞い戻ることとなった。
+;　十月、初秋。
+　October, beginning of fall
+;　いままで養子あつかいで親戚の家にあずけられていた志貴は、五年ぶりに本家である/
+　Having spent the last five years in the care of his relatives being treated almost like an adopted child,/
+;遠野の屋敷に舞い戻ることとなった。
+Shiki has finally had to return to his real home, the Tohno mansion.
 br
-　自分を嫌っていた父が病死し、五年前にわかれたきりの妹が遠野の家を継いだため、/
-志貴は屋敷に戻れるのだという。
-　いまさら遠野の家に戻る気のない志貴だが、妹である秋葉が屋敷に一人きりと聞いては/
+;　自分を嫌っていた父が病死し、五年前にわかれたきりの妹が遠野の家を継いだため、/
+　The father who so despised him has died of an illness, and his younger sister, who he hasn't seen in five years, has inherited the house,/
+;志貴は屋敷に戻れるのだという。
+and decided to bring him back to the mansion.
+;　いまさら遠野の家に戻る気のない志貴だが、妹である秋葉が屋敷に一人きりと聞いては/
+　Shiki wasn't planning on returning to the Tohno family after so long, but after hearing that his sister Akiha would be all alone in the mansion,/
 断ることはできない。
-　志貴は五年ぶりに遠野の屋敷に戻ることとなる。\
+he could no longer refuse the offer.
+;　志貴は五年ぶりに遠野の屋敷に戻ることとなる。\
+　As such, he returned to the Tohno mansion after five years of absence.\
 
-　自分が十二歳のころにわかれた家と妹。
-　死にかけるほどの事故をおこしてしまった、もう記憶にも残っていない古い屋敷へ。
+;　自分が十二歳のころにわかれた家と妹。
+　Toward a home and sister he parted with when he was twelve-years-old.
+;　死にかけるほどの事故をおこしてしまった、もう記憶にも残っていない古い屋敷へ。
+　Toward an old mansion that no longer lingers in his memories, where his fatal accident had taken place.
 br
-―――思えば、それが或る物語の発端だった。\
+;―――思えば、それが或る物語の発端だった。\
+...On reflection, that was the start of this tale.\
 
-　十一月、秋。
-　その日はよく晴れた日曜日。
-　夏の面影を濃くのこした日中で、志貴は街を歩くひとりの女性をみかけた。
-　白い服をきた、一人の金髪の女。
+;　十一月、秋。
+　November, fall.
+;　その日はよく晴れた日曜日。
+　It was Sunday, the sky bright and clear.
+;　夏の面影を濃くのこした日中で、志貴は街を歩くひとりの女性をみかけた。
+　Under the still summery blare of the sun, Shiki was walking through the city when he spotted a lone woman.
+;　白い服をきた、一人の金髪の女。
+　A lone, blonde woman clad in white.
 br
-　彼女を見た瞬間、志貴は目の前がくらくらとゆれて、まともに立っていられなくなった。
-　のどは乾いて呼吸さえ困難になり、体は砂漠になげこまれたみたいに汗ばんでいく。
+;　彼女を見た瞬間、志貴は目の前がくらくらとゆれて、まともに立っていられなくなった。
+　The instant he laid his eyes on her, his vision began to swim, and he could barely stand upright anymore.
+;　のどは乾いて呼吸さえ困難になり、体は砂漠になげこまれたみたいに汗ばんでいく。
+　His throat parched and his breating became strained. His body began sweating as if it had been thrown into a desert.
 br
-　一目惚れだとしても、それは明らかに異常な感覚だったろう。
+;　一目惚れだとしても、それは明らかに異常な感覚だったろう。
+　Even for love at first sight, the sensation was clearly abnormal.
 br
-　白い女性は颯爽と歩いていく。
-　気がつけば志貴は彼女のあとを尾行してしまっていた。\
+;　白い女性は颯爽と歩いていく。
+　The woman in white continued her gallant strides.
+;　気がつけば志貴は彼女のあとを尾行してしまっていた。\
+　Without knowing why, Shiki suddenly found himself on her trail.\
 
 br
-　本当に、理由はわからない。
+;　本当に、理由はわからない。
+　He truly... didn't understand why.
 br
-　遠野志貴はそういう性癖を持つ人間ではなかったし、殺してしまった後でさえそんな事を/
-してしまった理由はわからなかった。
+;　遠野志貴はそういう性癖を持つ人間ではなかったし、殺してしまった後でさえそんな事を/
+　Tohno Shiki was not someone with those kind of sexual perversions, and he certainly didn't understand the reason for why/
+;してしまった理由はわからなかった。
+he would do something like that after the kill.
 br
-　ただ、事実としてあるのは白い服の女のアパートにいる自分と、床に散らばった彼女の/
-死体だった。
-　尾行のはてに女の家の呼び鈴をおして中に押し入り、あまつさえ殺してしまう/
-なんて、志貴にはそんな趣味はない。
-　死体を前にしても、コレはなにか現実味のない白昼夢のようで落ち着かない。\
-　ただひとつリアルなのは彼女をバラバラにした方法が、自分が幼いころから持っていた『死』を/
-見るという能力で。
-　それだけが現実味のある出来事であり、それこそが現実味のない手段だったのだ。
+;　ただ、事実としてあるのは白い服の女のアパートにいる自分と、床に散らばった彼女の/
+　However, the facts remained that he was in the white-clad woman's apartment,/
+;死体だった。
+while her corpse was scattered upon the floor.
+;　尾行のはてに女の家の呼び鈴をおして中に押し入り、あまつさえ殺してしまう/
+　Breaking into a woman's apartment after stalking her there, before finally killing her.
+;なんて、志貴にはそんな趣味はない。
+That wasn't something Shiki was in the habit of doing.
+;　死体を前にしても、コレはなにか現実味のない白昼夢のようで落ち着かない。\
+　He felt ill at ease, almost like it was like some kind of unreal daydream, even as he stared at the corpse before him.\
+;　ただひとつリアルなのは彼女をバラバラにした方法が、自分が幼いころから持っていた『死』を/
+　The only thing that felt real to him was that method he had used to dismember her――the ability he had possessed since childhood/
+;見るという能力で。
+which allowed him to see "death".
+
+;　それだけが現実味のある出来事であり、それこそが現実味のない手段だったのだ。
+It was the only part that had felt real, and yet, the method had been what was most unreal of all.
 br
 br
-　わけもわからず志貴は遠野の屋敷へと逃げかえる。
-　自分でも、あれが現実だったのか夢だったのか判別がつかないままに。
+;　わけもわからず志貴は遠野の屋敷へと逃げかえる。
+　Without any clue what to do, Shiki fled back to the Tohno mansion.
+;　自分でも、あれが現実だったのか夢だったのか判別がつかないままに。
+　Even as he still couldn't tell what had been real and what had been a dream.
 \
 
-　翌日。
-　眠れないまま登校する志貴は、愕然といつもの登校路で立ち止まった。
-　交差点のさきのガードレール。
-　そこに、まるで恋人を待つかのようなそわそわした物腰で白い服装の女が待っていた。
-　女は志貴と目があうとにこりと微笑んで、つかつかと歩いてくる。
-　それは紛れもなく、昨日殺してしまったはずのあの女だった。\
+;　翌日。
+　The next day...
+;　眠れないまま登校する志貴は、愕然といつもの登校路で立ち止まった。
+　Having been unable to sleep, Shiki went to school in a daze, before coming to a stop on his usual route there.
+;　交差点のさきのガードレール。
+　On the guard rail beyond the intersection...
+;　そこに、まるで恋人を待つかのようなそわそわした物腰で白い服装の女が待っていた。
+　There, seeming almost as fretful as someone impatiently waiting for their lover, sat the white-clad woman.
+;　女は志貴と目があうとにこりと微笑んで、つかつかと歩いてくる。
+　When her eyes met with his, she flashed a bright smile and began to trod toward him.
+;　それは紛れもなく、昨日殺してしまったはずのあの女だった。\
+　There could be no mistaking it. It was her――the woman he thought he had killed the day prior.\
 
-　笑顔で歩み寄ってくる女。
-　彼女はまぎれもなく自分自身を目指してやってくる。
-　立ちつくす志貴の脳裏には、昨夜の光景だけが渦巻いていた。
+;　笑顔で歩み寄ってくる女。
+　Smiling, she approached.
+;　彼女はまぎれもなく自分自身を目指してやってくる。
+　There was no mistaking that was she was headed for him, and nobody else.
+;　立ちつくす志貴の脳裏には、昨夜の光景だけが渦巻いていた。
+　Visions from last night were all that swirled inside the paralyzed Shiki's brain.
 br
-　バラバラに散らばる女の屍体。
-　足元に侵食してくる赤い海のような流血。
+;　バラバラに散らばる女の屍体。
+　The dismembered woman's corpse.
+;　足元に侵食してくる赤い海のような流血。
+　The red ocean of running blood pooling at his feet.
 br
-　…それは間違いなく現実で。
-　自分は、彼女を確実に、これ以上ないぐらい惨殺したのに。\
+;　…それは間違いなく現実で。
+　That had been reality, without a doubt.
+;　自分は、彼女を確実に、これ以上ないぐらい惨殺したのに。\
+　He had slaughtered her, completely and utterly, and yet...\
 br
-「こんにちは」
+;「こんにちは」
+"Good day to you."
 br
-　交差点のむこうで彼女はそう囁いたように見えた。
+;　交差点のむこうで彼女はそう囁いたように見えた。
+　It almost seemed as she had whispered that from across the intersection.
 
-　志貴は何も考えられず、ただその場から走り出していた。\
+;　志貴は何も考えられず、ただその場から走り出していた。\
+　Refusing all thought, Shiki broke out into a sprint to just... get away.。\
 br
-　逃げる志貴を彼女はおいかけてくる。
-　心臓が口から吐き出されそうなほど全力で志貴が走っても、彼女は軽やかな足取りで/
-追いついてきた。
-br
-　やがて路地裏に追いつめられた志貴に、彼女は自らの正体を明かす。
-　彼女の名はアルクェイド。なんでも人間には吸血鬼と呼ばれる不死の生物という事だ。
-br
-　―――なんて、出来の悪い笑い話。
-br
-　そう笑い飛ばせる彼女の話は、実際に『生きている』姿を目の当たりにした志貴には/
-笑い飛ばせるものではなかった。\
-br
-　わたしを殺した責任、とってくれるんでしょ？
-br
-　少女の姿をした吸血鬼は志貴を見てにこりと微笑む。
-　アルクェイドは志貴に復讐するつもりなどなく、むしろその能力を評価していた。
-　過去においていかなる手段をもってしても殺されなかった自分を一瞬にしてバラした人間。
-　その力があるのなら、彼女が長く処刑できずにいた同族を殺せるのではないか、と期待して。\
-br
-　笑顔で手をさしのべる白い少女。
-　断れば自分の命が危ういと直感した志貴は、イヤイヤながらに彼女の手を握り返す。
-　これからまっている非現実な生活と、直視したくなかった自分の力と向きあわなくては/
-ならない事に、憂鬱なため息をこぼしながら。\
+;　逃げる志貴を彼女はおいかけてくる。
+　She chased after the fleeing Shiki.
+;　心臓が口から吐き出されそうなほど全力で志貴が走っても、彼女は軽やかな足取りで/
+Shiki ran so hard it almost felt like his heart risked spilling from his mouth, and yet with light steps/
+;追いついてきた。
+she followed right after him.
 
+br
+;　やがて路地裏に追いつめられた志貴に、彼女は自らの正体を明かす。
+　Soon finding himself cornered in a back alley, the woman revealed her identity to Shiki.
+;　彼女の名はアルクェイド。なんでも人間には吸血鬼と呼ばれる不死の生物という事だ。
+Her name was Arcueid. Apparently she was a undying creature known by humans as a vampire
+br
+;　―――なんて、出来の悪い笑い話。
+　...Talk about a bad joke.
+br
+;　そう笑い飛ばせる彼女の話は、実際に『生きている』姿を目の当たりにした志貴には/
+That is how he had wanted to brush aside her story, but given that she stood right before him as alive as before,/
+;笑い飛ばせるものではなかった。\
+he could not so simply do so.\
+
+br
+;　わたしを殺した責任、とってくれるんでしょ？
+　You're going to take responsibility for killing me, right?
+br
+;　少女の姿をした吸血鬼は志貴を見てにこりと微笑む。
+　The maidenly vampire looked at Shiki and flashed a bright smile.
+;　アルクェイドは志貴に復讐するつもりなどなく、むしろその能力を評価していた。
+　Arcueid had no intentions of enacting vengeance upon Shiki, on the contrary, she had been impressed by his abilities.
+;　過去においていかなる手段をもってしても殺されなかった自分を一瞬にしてバラした人間。
+　A human who could dismember her in an instant when in the past not a single method had been capable of slaying her.
+;　その力があるのなら、彼女が長く処刑できずにいた同族を殺せるのではないか、と期待して。\
+　With that kind of power, she was hoping he would be able to kill one of her kindred that she had long been unable to execute.\
+br
+;　笑顔で手をさしのべる白い少女。
+　With a smile, the maiden in white extended her hand.
+;　断れば自分の命が危ういと直感した志貴は、イヤイヤながらに彼女の手を握り返す。
+　Afraid that his life would be in danger if he declined, Shiki reluctantly shook her hand.
+;　これからまっている非現実な生活と、直視したくなかった自分の力と向きあわなくては/
+　In anticipation of the unreal life in store for him, as well as the fact that he now had to come to terms with his own ability,/
+;ならない事に、憂鬱なため息をこぼしながら。\
+Shiki let out a dejected sigh.
 ;-------------------------------------------------------------------------------
 ;	スクリプトブロック終了
 ;-------------------------------------------------------------------------------
