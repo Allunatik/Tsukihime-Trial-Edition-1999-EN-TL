@@ -622,23 +622,35 @@ I'll be with you the whole way."
 ;翡翠と琥珀
 bg "image\hisui.jpg",3
 br
-　翡翠\
+;　翡翠\
+　Hisui\　
 
-主人公の住む屋敷に仕えている、双子のメイドの一人。
-屋敷の生活に慣れない主人公の世話役をすることに。
-姉の琥珀とは対照的で、無感動で事務的な性格。
-極度の潔癖症で、異性とのふれあいを嫌っている。
-出そうだが、目からビームは出ない。\
+;主人公の住む屋敷に仕えている、双子のメイドの一人。
+One of the twin maids who serves at the mansion that the protagonist lives at.
+;屋敷の生活に慣れない主人公の世話役をすることに。
+She becomes the caretaker of the protagonist as he has trouble getting used to life at the mansion.
+;姉の琥珀とは対照的で、無感動で事務的な性格。
+In contrast to her older sister Kohaku, she has a dispassionate and professional personality.
+;極度の潔癖症で、異性とのふれあいを嫌っている。
+She loathes coming into contact with the other gender due to being an extreme clean-freak.
+;出そうだが、目からビームは出ない。\
+It might seem like it, but she doesn't actually shoot beams from her eyes.\
 
 bg "image\kohaku.jpg",3
 br
-　琥珀\
+;　琥珀\
+　Kohaku\
 
-主人公が住む事になる屋敷に仕える双子のメイドの一人。
-妹である秋葉つきのメイドで、屋敷の家事全般をとりしきっている。
-明るく気さく。笑顔をたやさないほごらかな人柄。
-本人はかなりしっかりしているのに、なぜかトラブルを巻き起こす。
-なにかと猟奇猟奇している本編でのなごみ担当。…らしい。\
+;主人公が住む事になる屋敷に仕える双子のメイドの一人。
+One of the twin maids who serves at the mansion that the protagonist lives at.
+;妹である秋葉つきのメイドで、屋敷の家事全般をとりしきっている。
+The maid assigned to the protagonist's sister Akiha who manages all of the chores in the mansion.
+;明るく気さく。笑顔をたやさないほごらかな人柄。
+Cheerful, friendly, always smiling, and with  a warm disposition. 
+;本人はかなりしっかりしているのに、なぜかトラブルを巻き起こす。
+For how dependable she can be, she is always causing problems for whatever reason.
+;なにかと猟奇猟奇している本編でのなごみ担当。…らしい。\
+There to provide moments of leisure to the rather grotesque story... apparently.
 
 ;-------------------------------------------------------------------------------
 ;	スクリプトブロック終了
