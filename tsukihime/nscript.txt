@@ -899,7 +899,7 @@ Something... feels awfully different about her insides.
 ;体じゅうの皮膚に火花が咲いている。
 Fireworks burst into life all across the skin of my body.
 ;このまま一瞬にして消え去ってしまいそうな浮遊感は、怖れと――それ以上の悦楽がある。
-The billowy feeling that I'll suddenly disappear in an instant is scary... but even more so, pleasurable.
+The floaty feeling that I'll suddenly disappear in an instant is scary... but even more so, pleasurable.
 ;「あ、くぅぅうう…ッ！」
 "Ah, mnghh!"
 ;痛みにねじれるアルクェイドの言葉もよく聞こえない。
@@ -918,7 +918,7 @@ I can hear Arkaid's voice.
 ;痛みをこらえる瞳は変わらない。
 The pain she holds back in her eyes hasn't changed
 ;ただ、今はそこに確かな喘ぎの艶がある。
-But now, there is very much sensual moaning to her.
+But now, there is very much a sensual moaning to her.
 ;痛みが半分…あとは、悦びが半分をしめているような。
 Half of it pain... with the other half engulfed by pleasure.
 
@@ -955,83 +955,146 @@ bg "image\sora.jpg",3
 
 ld c,":a;image\kohaku_c.jpg",4
 
-琥珀「こんにちは、初めまして」
-琥珀「この度は「月姫_」お予告フロッピーを購入していただきありがとうございました。私は遠野の家に仕える琥珀と申します」\
+;琥珀「こんにちは、初めまして」
+Kohaku: "Good day, pleased to meet you."
+;琥珀「この度は「月姫_」お予告フロッピーを購入していただきありがとうございました。私は遠野の家に仕える琥珀と申します」\
+Kohaku: "Thank you very much for taking the opportunity to purchase the Tsukihime promotional floppy disk. My name is Kohaku, and I'm one of the maids serving the Tohno family."
 
 cl c,4
 ld c,":a;image\hisui_c.jpg",4
 
-翡翠「妹の翡翠です」\
+;翡翠「妹の翡翠です」\
+Hisui: "I'm her younger sister, Hisui."
 cl c,4
 ld r,":a;image\kohaku_c.jpg",4
 ld l,":a;image\hisui_c.jpg",4
-琥珀「予告編としてなんとか最低限の形を整えられました。肝心のお験し部分の内容は、夏コミで無料配布したものヴァージョンアップ版ですけど。キャラのデザインは一部変更になってます。
-ちなみに開発遅れてます。えへへ。あ、今の嘘です。笑って済まされる問題じゃないですよね、うん。けど、着実に出来あがっていますので、期待してくださってる方もそうでもない方も、もう少しお待ちください」
-翡翠「姉さん」
-琥珀「何？翡翠ちゃん」
-翡翠「私達サブヒロインがこんなに目立って良いの？」
-琥珀「ここぐらいでしか目立てないんだからドンドン前に出なくちゃ！それに今回は何の気まぐれか表紙だって私達なんだしね。この場で印象付けて人気がでたら、私達単独のシナリオだって夢じゃないよ」
-翡翠「…そうなの？」
-琥珀「多分」
-翡翠「たぶん？」
-琥珀「あ、うそうそ。きっと」
-翡翠「…じゃあ、がんばる」
-琥珀「うんうん。可愛い翡翠ちゃんの協力が得られた所で、月姫についてもう少し語りましょう」
-「ジャンルは伝奇アダルトです。形式はサウンドノベル。キャラクターは多彩ですね。金髪外人あり、めがねあり、妹あり、メイドあり、割烹着あり。グラフィッカーとシナリオライターの煩悩が炸裂してます」
-翡翠「そうなの？」
-琥珀「そーだよ。ふたりはもう、これ出来あがったら干からびるんじゃないかな。ぱりぱりに」
-翡翠「それだけ気合がはいってる？」
-琥珀「うんうん。良いこと言うね、翡翠ちゃん。それじゃあ各ヒロインの魅力を説明しますね」\
+;琥珀「予告編としてなんとか最低限の形を整えられました。肝心のお験し部分の内容は、夏コミで無料配布したものヴァージョンアップ版ですけど。キャラのデザインは一部変更になってます。
+Kohaku: "We managed to get this up to at least the bare minimum needed for a preview version. The content in the all-important demo parts are just an upgraded version of what we distributed for free at summer Comiket, though the character designs have changed slightly.
+;ちなみに開発遅れてます。えへへ。あ、今の嘘です。笑って済まされる問題じゃないですよね、うん。けど、着実に出来あがっていますので、期待してくださってる方もそうでもない方も、もう少しお待ちください」
+By the way, development has been delayed. Ehehe... Just kidding. Though I guess that's not something you can just laugh off, is it? Still, we're making steady progress, so I hope everyone who is looking forward to the game, or those who aren't, can wait a little longer."
+;翡翠「姉さん」
+Hisui: "Nee-san."
+;琥珀「何？翡翠ちゃん」
+Kohaku: "What is it Hisui-chan?"
+;翡翠「私達サブヒロインがこんなに目立って良いの？」
+Hisui: "Is it really okay for sub-heroines like us to be this prominent?"
+;琥珀「ここぐらいでしか目立てないんだからドンドン前に出なくちゃ！それに今回は何の気まぐれか表紙だって私達なんだしね。この場で印象付けて人気がでたら、私達単独のシナリオだって夢じゃないよ」
+Kohaku: "This is about how prominent we'll be, so we gotta get out there into the spotlight when we can! Besides, the cover art this time around features us for whatever reason. If we make an impression here and become popular, it's not impossible that we'll get routes of our own."
+;翡翠「…そうなの？」
+Hisui: "...Really?"
+;琥珀「多分」
+Kohaku: "Probably..."
+;翡翠「たぶん？」
+Hisui: "Probably...?"
+,琥珀「あ、うそうそ。きっと」
+Kohaku: "Uh, I mean, of course!"
+;翡翠「…じゃあ、がんばる」
+Hisui: "...Fine, I'll try my best then."
+;琥珀「うんうん。可愛い翡翠ちゃんの協力が得られた所で、月姫についてもう少し語りましょう」
+Kohaku: "Good, good. Now with the cute Hisui-chan's cooperation secured, I'll talk a bit more about Tsukihime."
+;「ジャンルは伝奇アダルトです。形式はサウンドノベル。キャラクターは多彩ですね。金髪外人あり、めがねあり、妹あり、メイドあり、割烹着あり。グラフィッカーとシナリオライターの煩悩が炸裂してます」
+;TL Note - 伝奇 isn't exactly easy to translate. Might leave as is?
+"Its genre is supernatural adult, and its medium is sound novel. The characters are varied, aren't they? Blonder foreigners, glasses, little sisters, maids, aprons... the artist and writer's worldly desires have spilled all over the place."
+;翡翠「そうなの？」
+Hisui: "Really now?"
+;琥珀「そーだよ。ふたりはもう、これ出来あがったら干からびるんじゃないかな。ぱりぱりに」
+Kohaku: "Really-really. The two of them think they might dry up completely once they're done. All shriveled up.
+;翡翠「それだけ気合がはいってる？」
+Hisui: "So they're giving it they're all, you mean?"
+;琥珀「うんうん。良いこと言うね、翡翠ちゃん。それじゃあ各ヒロインの魅力を説明しますね」\
+Kohaku: "Good, good. What a nice thing to say, Hisui-chan. Alright, time to explain each heroine's charm points, okay?"\
 cl l,4
 cl r,4
 bg "image\omake1.jpg",3
-琥珀「まずこれが正ヒロインのアルクエイド。全ての元凶のカマトト吸血鬼です。イメージは白ですね。純粋で気高く美しいという、正当派のヒロインさんですが、その本性はただの怪物です。こわーい」
-翡翠「…ね、ねえさん？」\
+;琥珀「まずこれが正ヒロインのアルクエイド。全ての元凶のカマトト吸血鬼です。イメージは白ですね。純粋で気高く美しいという、正当派のヒロインさんですが、その本性はただの怪物です。こわーい」
+Kohaku: "First is the main heroine, Arcueid. The vampire who innocently pretends everything isn't her fault. Her motif is white. A tried-and-true, pure and beautiful kind of heroine. Still, her true nature is nothing more than that of a monster. Scaaaaary."
+;翡翠「…ね、ねえさん？」\
+Hisui: "N-Neesan...?"\
 bg "image\omake2.jpg",3
 琥珀「次は彼女。遠野秋葉さん。主人公志貴さんの妹さん。我侭で高飛車な嫌な女ですけど、ほんとは冷血です。ちなみに私は秋葉様付きのメイドです。翡翠ちゃんは志貴さま付きなんだよね。いいなー。代わってほしいよー」
+Kohaku: "Next we have her, Tohno Akiha-san. The younger sister of Shiki, the protagonist. A selfish, domineering, and unpleasant woman, but really, she's completely cold-hearted. By the way, I'm her personal maid. Hisui-chan is Shiki-sama's instead. Don't you have it good? Can we swap, pleeaaase?"
 翡翠「ねえさんてば…」\
+Hisui: "Nee-san, you can't..."\
 bg "image\omake3.jpg",3
-琥珀「最後はシエル先輩。世話好きな素敵な方です。要するに偽善者ですね。あとはよく知りません。メガネ描きにく～い」
-翡翠「おこられちゃうよ…」\
+;琥珀「最後はシエル先輩。世話好きな素敵な方です。要するに偽善者ですね。あとはよく知りません。メガネ描きにく～い」
+Kohaku: "Lastly we have Ciel-senpai. A wonderful girl who loves helping out. So basically, a hypocrite. I don't know much more than that. Glasses are hard to draawww..."
+;翡翠「おこられちゃうよ…」\
+Hisui: "You'll get chewed out for this..."\
 bg "image\sora.jpg",3
 ld r,":a;image\kohaku_c.jpg",4
 ld l,":a;image\hisui_c.jpg",4
-琥珀「大丈夫大丈夫。嘘は言ってないもん。例え一面的な捉え方だとしても、真実には変わりないのよ。翡翠ちゃんも覚えておきなさい。人なんてね、悪く言おうと思えばいくらでも悪く言えるんだから。それにここで正ヒロインを叩いておけば、後々あたし達のシナリオが出来やすくなると思うのよね」
-翡翠「…いろいろ計算してるんだ」
-琥珀「苦労してるからね。うん」
-琥珀「それじゃゲーム開発の進行状況をちょっとレポート」
-琥珀「シナリオはこのまま行くと原稿用紙3500枚ぐらいになりそうなんだって」
-翡翠「それって凄いの？」
-琥珀「すごいよー。えーと、「塗仏の宴」上下巻より分厚いって」
-翡翠「わかんない」
-琥珀「うーん。まーとにかく凄いらしいのよ、うん」
-翡翠「グラフィックは？」
-琥珀「予定では、立ち絵、背景を除くイベント絵は50～60枚程度になるみたい。この種類のゲームのひとつの要といえるＨシーンも沢山あるので一安心。Ｈ文章も頑張ってもらってます。私達も汚されまくりです。えへへ」
-翡翠「姉さん、そこ笑うとこじゃない…」
-琥珀「あ、えーと、なんちゃって！あはは」
-翡翠「…。じゃ、サウンドの方」
-琥珀「10曲ぐらいになるかな。音源は未定だけど、サウンド担当の作る奇麗でモノ悲しい音楽は月姫の世界観にぴったりです。あんまりにもシナリオライターの表現したい世界をそのまま音楽にしてるものだから、シナリオライター暴走気味です。奴は只でさえブレーキ弱いのだから、勘弁してくれってものですね」
-翡翠「システムは既存のツールを使うって…？」
-琥珀「うんうん。高橋直樹さんのＮｓｃｒｉｐｔｅｒというフリーウェアを使わせてもらう予定です。現在プログラム担当が色々と模索中。今回の予告編も上記のソフトで作成してます。わかりやすくて多機能な優れものなのです。高橋さんありがとう」
-翡翠「ありがとう」
-琥珀「さーて、そろそろお別れの時間です。スタッフ一同頑張っておりますので、どうか見捨てないでください」
-翡翠「見捨てないでください」
-琥珀「感想や声援をお待ちしてます。次お会いするのは製品版ですね。発売は2000年の春を予定してます。詳しくはＨＰで告知して行きますのでそちらを参考にしてくださいませ。
-では春まで、ばいばいです。ほら翡翠ちゃんもいっしょに。ばいばーい」
-翡翠「…ばいばい」
+;琥珀「大丈夫大丈夫。嘘は言ってないもん。例え一面的な捉え方だとしても、真実には変わりないのよ。翡翠ちゃんも覚えておきなさい。人なんてね、悪く言おうと思えばいくらでも悪く言えるんだから。それにここで正ヒロインを叩いておけば、後々あたし達のシナリオが出来やすくなると思うのよね」
+Kohaku: "It's fine, it's fine. It's not like I'm not lying. Even if it's one-sided way of seeing them, it doesn't change the truth of the matter. Do well to understand this, Hisui-chan. Anyone who wants to say bad things about people will say as many bad things as they can. Also, if I bash the main heroines here, I think it'll be easier for us to get our own routes later."
+;翡翠「…いろいろ計算してるんだ」
+Hisui: "You sure are calculating..."
+;琥珀「苦労してるからね。うん」
+Kohaku: "Gotta try my best here, after all. Yep."
+;琥珀「それじゃゲーム開発の進行状況をちょっとレポート」
+Kohaku: "Okay, time for a little progress report of the development of the game."
+;琥珀「シナリオはこのまま行くと原稿用紙3500枚ぐらいになりそうなんだって」
+Kohaku: "The pace the script is going at, it'll hit about 3500 standard paper pages, apparently."
+;翡翠「それって凄いの？」
+Hisui: "Is that a lot?"
+;琥珀「すごいよー。えーと、「塗仏の宴」上下巻より分厚いって」
+;TL Note - Talking about Natsuhiko Kyougoku's catkiller of a book.
+Kohaku: "It's a lot, a lot! Umm, apparently it'll be bigger than both volumes of Nuribotoke no Utage put together.
+;翡翠「わかんない」
+Hisui: "I don't get it."
+;琥珀「うーん。まーとにかく凄いらしいのよ、うん」
+Kohaku: "Hmmm, well, anyway, it's supposed to be a lot. Yep."
+;翡翠「グラフィックは？」
+Hisui: "What about the art?"
+;琥珀「予定では、立ち絵、背景を除くイベント絵は50～60枚程度になるみたい。この種類のゲームのひとつの要といえるＨシーンも沢山あるので一安心。Ｈ文章も頑張ってもらってます。私達も汚されまくりです。えへへ」
+Kohaku: "It seems there's planned to be about 50 to 60 event CGs, excluding backgrounds and sprites. Rest assured that the H-scenes which these types of games revolve around are plentiful. We're doing our best with the erotic prose too. We're gonna get so defiled, ehehe..."
+;翡翠「姉さん、そこ笑うとこじゃない…」
+Hisui: "Nee-san, that's not a laughing matter..."
+;琥珀「あ、えーと、なんちゃって！あはは」
+Kohaku: "Oh, uhh, j-just kidding, ahaha..."
+;翡翠「…。じゃ、サウンドの方」
+Hisui: "...Well, what about the sound?"
+;琥珀「10曲ぐらいになるかな。音源は未定だけど、サウンド担当の作る奇麗でモノ悲しい音楽は月姫の世界観にぴったりです。あんまりにもシナリオライターの表現したい世界をそのまま音楽にしてるものだから、シナリオライター暴走気味です。奴は只でさえブレーキ弱いのだから、勘弁してくれってものですね」
+Kohaku: "There'll probably be about 10 tracks. Sound-chip is still undecided, but the ephemeral and tragic music created by the sound-lead fits the Tsukihime atmosphere like a glove. It fits so well with the world that the story-lead wanted to created that he's gone completely out of control. And this is someone who is hard to put the breaks on even under normal circumstances, so it's really quite the situation."
+;翡翠「システムは既存のツールを使うって…？」
+Hisui: "I heard the engine is non-proprietary?"
+;琥珀「うんうん。高橋直樹さんのＮｓｃｒｉｐｔｅｒというフリーウェアを使わせてもらう予定です。現在プログラム担当が色々と模索中。今回の予告編も上記のソフトで作成してます。わかりやすくて多機能な優れものなのです。高橋さんありがとう」
+Kohaku: "Yep, yep. We plan to use the freeware NScripter made by Takahashi Naoki-san. The programming-lead is currently on the look out for options. This preview version was also made using the previous mentioned software. It's easy to understand and boasts tons of useful features. Thank you, Takahashi-san."
+;翡翠「ありがとう」
+Hisui: "Thank you."
+;琥珀「さーて、そろそろお別れの時間です。スタッフ一同頑張っておりますので、どうか見捨てないでください」
+Kohaku: "Now then, it's about time for us to say good bye. The whole staff is doing their best, so please don't give up on us.
+;翡翠「見捨てないでください」
+Hisui: "Please don't give up on us."
+;琥珀「感想や声援をお待ちしてます。次お会いするのは製品版ですね。発売は2000年の春を予定してます。詳しくはＨＰで告知して行きますのでそちらを参考にしてくださいませ。
+Kohaku: "We're expecting your comments and words of support. We'll meet next time in the demo version.  We're expecting to release it in spring of 2000. More details will be announced on the website, so please look there for more information.
+;では春まで、ばいばいです。ほら翡翠ちゃんもいっしょに。ばいばーい」
+Right, now bye-bye until spring. Hey. Hisui-chan, all together now. Bye byeee!
+;翡翠「…ばいばい」
+Hisui: "Bye bye...
 
-琥珀「翡翠ちゃんお疲れ様！たくさん頑張ったね」
-翡翠「…大丈夫かな」
-琥珀「ん？」
-翡翠「…私達のシナリオ…」
-琥珀「あ、うんうん。隠しシナリオもいくつかあるみたいだし、大丈夫よ、きっと」
-翡翠「…うん」
-琥珀「じゃあご飯食べて帰ろ？」
-翡翠「私天下一品ラーメンがいい」
-琥珀「え？ま、また？」
-翡翠「…だめ？」
-琥珀「あ、うそうそ。全然おっけー。れっつごー（とほほ）」
-翡翠「♪」\
+;琥珀「翡翠ちゃんお疲れ様！たくさん頑張ったね」
+Kohaku: "Good job, Hisui-chan! You sure worked hard."
+;翡翠「…大丈夫かな」
+Hisui: "I wonder if it'll happen..."
+;琥珀「ん？」
+Kohaku: "Hm?"
+;翡翠「…私達のシナリオ…」
+Hisui: "Our routes..."
+;琥珀「あ、うんうん。隠しシナリオもいくつかあるみたいだし、大丈夫よ、きっと」
+Kohaku: "Oh, yeah-yeah. There are a bunch of hidden routes, apparently, so it'll happen, surely."
+;翡翠「…うん」
+Hisui: "Okay..."
+;琥珀「じゃあご飯食べて帰ろ？」
+Kohaku: "Now, wanna go eat and then go home?"
+;翡翠「私天下一品ラーメンがいい」
+Hisui: "I want Tenka-Ippin Ramen."
+;琥珀「え？ま、また？」
+Kohaku: "Uh? A-Again?"
+;翡翠「…だめ？」
+Hisui: "...We can't?"
+;琥珀「あ、うそうそ。全然おっけー。れっつごー（とほほ）」
+Kohaku: "Ah, just kidding! It's totally okay. Let's goooo! (*cries*)"
+;翡翠「♪」\
+Hisui: "♪"\
 
 
 ;-------------------------------------------------------------------------------
