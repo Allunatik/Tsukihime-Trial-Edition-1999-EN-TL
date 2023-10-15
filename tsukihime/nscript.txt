@@ -501,16 +501,16 @@ When she keeps her mouth shut, she has the aura of a princess, but when she does
 ;そこいらの女の子とかわらないほど気さくな性格になる。
 her personality becomes so casual that she's no different from just about any normal girl.
 ;好き嫌いをはっきりさせるし、口より手のほうが先に出/
-Given how she always making her preferences very clear, and how she always acts before/
+Given how she always makes her preferences very clear and acts before/
 ;るあたりをみるとわりと直情的な性格であるらしい。
 thinking, it seems she has a rather forthright personality.
 
 ;本編における正ヒロイン。
 The main heroine of the story.
 ;吸血鬼にあるまじき外見と体質をしていて、主人公に/
-She is a pleasant girl with an appearance and character you'd never expect/
+She is a pleasant girl with an appearance and temperament you'd never expect/
 ;いきなり殺されるというかつてない登場を\するさわやか/
-from a vampire, whose unprecedented introduction is a scene/
+from a vampire, who has a never-before-seen introduction scene/
 ;系のおんなのこ。\
 where she gets suddenly killed by the protagonist.\
 
@@ -692,7 +692,7 @@ For a second... I cease being able to think about anything.
 ;さもそこに居るのが当然、といったようにアルクェイド/
 There, seeming almost like it is the most natural thing in the world,/
 ;がそこにいた。\
-is Arcueid.\
+is Arkaid.\
 
 ;「お、お、お、ま、え」
 "Y-Y-Y-You!"
@@ -744,104 +744,183 @@ bg "image\ark_h1.jpg",3
 br
 br
 br
-Ｈシーン\
-アルクェイドの体は、とても―――まったく信じられないぐらいやわらかかった。
-「ん―――」
-くぼんだヘソのラインに指をなぞるだけで、指先がしびれるようだ。\
-胸や足にふれるまでもない。
-こんなんじゃ、だだ肌に触れているだけで達してしまうかもしれない。
-「…志貴…？」
-体を地面にあずけたまま、アルクェイドは俺を見上げる。
-不安そうな目で、なにかにおびえるように。\
+;Ｈシーン\
+H-scene\
+;アルクェイドの体は、とても―――まったく信じられないぐらいやわらかかった。
+Arkaid's body is extremely soft――no, unbelievably so.
+;「ん―――」
+"Mmm..."
+;くぼんだヘソのラインに指をなぞるだけで、指先がしびれるようだ。\
+Just tracing my hand across the curves of her concave navel makes the tips of my finger tingle.
+;胸や足にふれるまでもない。
+I don't even have to touch breasts or legs.
+;こんなんじゃ、だだ肌に触れているだけで達してしまうかもしれない。
+Just touching her skin like this is almost enough to make me come.
+;「…志貴…？」
+"Shiki...?"
+;体を地面にあずけたまま、アルクェイドは俺を見上げる。
+With her body steadied against the g round, Arkaid looks up at me...
+;不安そうな目で、なにかにおびえるように。\
+Her eyes uncertain, almost as if afraid of something.
 
 
 
-一度や二度では全然たらない。
-力任せにアルクェイドを床におしつけて、細い両足を開かせる。
-「次、行くぞ」
-「………ん」
-こくん、と微かにアルクェイドは頷く。
-初めてという羞恥心からか、彼女の頬は紅をさしたように赤い。
-上気する肌と体温も赤。こわばる表情も強く握られた手の平も、温かい、人の生命を感じさせる。\
-「…志貴、わたし、あつい」
-とぎれとぎれに吐き出す吐息も紅く見える。
-今目前にいるアルクェイドは、俺の知っているアルクェイドじゃない。
-ただ流れる金髪だけが、以前の彼女の面影をとどめている。\
-「――――ッ！」
-くん、と微かにアルクェイドの胸がそりあがる。
-彼女の秘部に異物が押し入りつつある反動。\
-「くぅ―――ぅ……！」
-ずぶずぶと肉を裂いて俺自身がめり込んでいく。
-いまだ白濁とした精液にもみれたアルクェイドの膣は、一度めより容易に俺を受け入れた\
-「――志貴、そこいたい………！」
-「大丈夫、さっきよりは幾分ラクになってる」
-かまわずに奥へ進む。\
-「ん、あぅうぅぅぅ………！」
-身をよじるアルクェイド。
-まだ快楽よりは苦痛が彼女の体を支配しているのだろう。
-けれど、その抗いが激しければ激しいほど、彼女の生殖器の脈動も激しくなる。
-だから、容赦なく。
-ナイフを突き刺すように、男根を奥まで叩きつけた。\
-「…………！！！！」\
-はだけた上着を噛んでアルクェイドは声を殺す。
-遮断された感情の代謝をはたしているのか、瞳からは涙があふれていた。
-「まだ痛いか……？」
-アルクェイドは答えない。
-ただ痛みに耐えている顔。
-「…わかった、一度抜くよ」
-ぞっ、と軽く腰をさげる。
-アルクェイドの内はきつくて、それだけで根こそぎ精を奪われそうになる。\
+;一度や二度では全然たらない。
+Just once and twice isn't enough. Not even close.
+;力任せにアルクェイドを床におしつけて、細い両足を開かせる。
+I forcefully press Arkaid against the ground and force her slender legs open.
+;「次、行くぞ」
+"I'm going again."
+;「………ん」
+"Okay..."
+;こくん、と微かにアルクェイドは頷く。
+Arkaid nods ever so slightly.
+;初めてという羞恥心からか、彼女の頬は紅をさしたように赤い。
+Her cheeks are flushed an almost painterly red, perhaps from how shy she feels from doing it her first time.
+;上気する肌と体温も赤。こわばる表情も強く握られた手の平も、温かい、人の生命を感じさせる。\
+Her feverish skin and heat are red too. Her strained expression, and her tightly curled hands are... both warm, filled with the sensation of life.\
+;「…志貴、わたし、あつい」
+"Shiki... I'm, hot..."
+;とぎれとぎれに吐き出す吐息も紅く見える。
+The intermittent breaths coming from her also appear red.
+;今目前にいるアルクェイドは、俺の知っているアルクェイドじゃない。
+The Arkaid currently before my eyes is not the Arkaid I know.
+;ただ流れる金髪だけが、以前の彼女の面影をとどめている。\
+Only her flowing blonde hair betrays a shadow of her former self.
+;「――――ッ！」
+"...Ngh!"
+;くん、と微かにアルクェイドの胸がそりあがる。
+Arkaid's chest rises with a slight twitch.
+;彼女の秘部に異物が押し入りつつある反動。\
+A reaction from having something not hers pushed into her privates.
+;「くぅ―――ぅ……！」
+"Nghhh!"
+;ずぶずぶと肉を裂いて俺自身がめり込んでいく。
+I break into her soft flesh as I bury myself deeper and deeper.
+;いまだ白濁とした精液にもみれたアルクェイドの膣は、一度めより容易に俺を受け入れた\
+The pearly semen still collected in her pussy makes my entrance into her much smoother than the first time.
+;「――志貴、そこいたい………！」
+"Shiki, it-it hurts!"
+;「大丈夫、さっきよりは幾分ラクになってる」
+"Don't worry, it's far smoother than before."
+;かまわずに奥へ進む。\
+Unconcerned, I push deeper.
+;「ん、あぅうぅぅぅ………！」
+"Ngh, owwwww!"
+;身をよじるアルクェイド。
+Arkaid twists her body.
+;まだ快楽よりは苦痛が彼女の体を支配しているのだろう。
+It would appear that pain still has far more rein over her body than pleasure.
+;けれど、その抗いが激しければ激しいほど、彼女の生殖器の脈動も激しくなる。
+Still, the more intensely she struggles, the more intensely her genitalia squirms around me.
+;だから、容赦なく。
+As such, I mercilessly, almost as if piercing her with a knife...
+;ナイフを突き刺すように、男根を奥まで叩きつけた。\
+Thrust my manhood into her depths. 
+;「…………！！！！」\
+;TL Note - Don't like leaving this as just a collection of punctuation
+"Mmnnff!!"
+;はだけた上着を噛んでアルクェイドは声を殺す。
+Arkaid bites into my discarded jacket to suppress her voice.
+;遮断された感情の代謝をはたしているのか、瞳からは涙があふれていた。
+Tears stream from her eyes, as if they were the price she had to pay for bottling up those emotions. 
+;「まだ痛いか……？」
+"Does it still hurt?"
+;アルクェイドは答えない。
+Arkaid doesn't answer.
+;ただ痛みに耐えている顔。
+She simply bears the pain.
+;「…わかった、一度抜くよ」
+"...Okay, I'll take it out for a bit."
+;ぞっ、と軽く腰をさげる。
+Gently and softly, I lower my hips.
+;アルクェイドの内はきつくて、それだけで根こそぎ精を奪われそうになる。\
+Arkaid's insides are tight, and that alone almost feels like it's enough to squeeze every last seed out of me.
 
 bg "image\ark_h2.jpg",3
 
-多少は痛まなくなったのか、ほう、とアルクェイドは肩をおろす。
-それは普段の彼女からは見れない弱々しさで、俺はとたん――凶暴な気持ちになった。\
-「やめた」
-「え―――？」\
-まだ出しきっていなかった亀頭を一気に挿入する。
-ごぼり、とはみ出してくる液がアルクェイドの陰部を濡らしていく。\
+;多少は痛まなくなったのか、ほう、とアルクェイドは肩をおろす。
+Arkaid relaxes her shoulders with a sigh, the pain perhaps having slightly subsided.
+;それは普段の彼女からは見れない弱々しさで、俺はとたん――凶暴な気持ちになった。\
+It is a display of frailty you would never observe from her ordinarily, and with it... a sudden savage impulse takes hold of me. \
+;「やめた」
+"Forget it."
+;「え―――？」\
+"Huh?"\
+;まだ出しきっていなかった亀頭を一気に挿入する。
+Having still more to give, I insert my shaft in a single motion.
+;ごぼり、とはみ出してくる液がアルクェイドの陰部を濡らしていく。\
+The overflowing liquids spill out, wetting Arkaid's vagina in the process.
 
 bg "image\ark_h3.jpg",3
 
-「ひ―――ぅうううぅう…………！！」
-アルクェイドの顔が歪む。\
-懸命に逃れようとする体は激しく収束した。
-ぐわりと。男根を巻き込んでいく、肉の波。
-彼女に侵入した俺自身はそれでとろけて、俺本人でさえ、苦悶の声を上げた。
+;「ひ―――ぅうううぅう…………！！」
+"Unnngghh, owwww!"
+;アルクェイドの顔が歪む。\
+Arkaid's face contorts.\
+;懸命に逃れようとする体は激しく収束した。
+Her body, desperate for escape, coils up fiercely.
+;ぐわりと。男根を巻き込んでいく、肉の波。
+A swell of flesh wrapping itself around my manhood, round and round...
+;彼女に侵入した俺自身はそれでとろけて、俺本人でさえ、苦悶の声を上げた。
+Having incurred upon her, I melt at her touch, until even I begin to give out screams of anguish.
 \
 br
 br
 br
 br
 
-――死んだ、と思った。\
+;――死んだ、と思った。\
+...I think I almost died.
+;全身にはしる壮絶な痺れ。
+An incredible numbness runs across my whole body.
+;「は――ああ……！」
+"Hahh... ahh..."
+;感覚がとぎれる。
+My senses are only half there.
+;ただの末端にすぎないペニスから、脳髄にマグマが流れ込んでくる。
+Magma flows into my brain-stem from the mere extremity that is my penis.
+;「ふぅ―――ふう、くううううう………！」
+"Huff... Huff... Nghnnn!"
+;呼吸が、荒い。
+My breathing is... heavy.
+;初めての痛みに苦しむアルクェイドより、俺の呼吸は乱れている。
+I'm breathing more wildly than even Arkaid did when she was suffering from the pain of her first time.
+;このまま、砕けてしまいそうで。
+It's like I'll shatter into pieces if this keeps up.
+;その破滅そのものが、とても甘美なものに感じてしまう。
+And in fact, I feel something very alluring about an end like that.
+;それは恐くて、たとえようもなく嬉しい錯覚だ。\
+It's a scary, yet also, incomparably happy and illusory feeling.
 
-全身にはしる壮絶な痺れ。
-「は――ああ……！」
-感覚がとぎれる。
-ただの末端にすぎないペニスから、脳髄にマグマが流れ込んでくる。
-「ふぅ―――ふう、くううううう………！」
-呼吸が、荒い。
-初めての痛みに苦しむアルクェイドより、俺の呼吸は乱れている。
-このまま、砕けてしまいそうで。
-その破滅そのものが、とても甘美なものに感じてしまう。
-それは恐くて、たとえようもなく嬉しい錯覚だ。\
+;――なにか、ひどく彼女のなかは違う。\
+Something... feels awfully different about her insides.
 
-――なにか、ひどく彼女のなかは違う。\
+;体じゅうの皮膚に火花が咲いている。
+Fireworks burst into life all across the skin of my body.
+;このまま一瞬にして消え去ってしまいそうな浮遊感は、怖れと――それ以上の悦楽がある。
+The billowy feeling that I'll suddenly disappear in an instant is scary... but even more so, pleasurable.
+;「あ、くぅぅうう…ッ！」
+"Ah, mnghh!"
+;痛みにねじれるアルクェイドの言葉もよく聞こえない。
+I have a hard time hearing the words of the squirming and agony-afflicted Arkaid.
+;思考がしびれて、世界がつかめない。
+My thinking numbs and I can't grasp the world around me.
+;飲みこまれているのは俺の触覚だけなのか、それとも本当に俺自身が呑まれているのか。
+Is the feeling of being engulfed just coming from my senses, or am I actually being devoured? 
+;そんな単純な事さえ、麻酔されていってしまう。\
+Even a simple question like that is afflicted by this stupor.
 
-体じゅうの皮膚に火花が咲いている。
-このまま一瞬にして消え去ってしまいそうな浮遊感は、怖れと――それ以上の悦楽がある。
-「あ、くぅぅうう…ッ！」
-痛みにねじれるアルクェイドの言葉もよく聞こえない。
-思考がしびれて、世界がつかめない。
-飲みこまれているのは俺の触覚だけなのか、それとも本当に俺自身が呑まれているのか。
-そんな単純な事さえ、麻酔されていってしまう。\
-
-「し……き、もっと…もっと、強く―――」
-アルクェイドの声が聞こえる。
-痛みをこらえる瞳は変わらない。
-ただ、今はそこに確かな喘ぎの艶がある。
-痛みが半分…あとは、悦びが半分をしめているような。
+;「し……き、もっと…もっと、強く―――」
+"Shi...ki... more... more... harder!"
+;アルクェイドの声が聞こえる。
+I can hear Arkaid's voice.
+;痛みをこらえる瞳は変わらない。
+The pain she holds back in her eyes hasn't changed
+;ただ、今はそこに確かな喘ぎの艶がある。
+But now, there is very much sensual moaning to her.
+;痛みが半分…あとは、悦びが半分をしめているような。
+Half of it pain... with the other half engulfed by pleasure.
 
 ;-------------------------------------------------------------------------------
 ;	スクリプトブロック終了
