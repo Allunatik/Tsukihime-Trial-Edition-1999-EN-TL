@@ -20,7 +20,8 @@ rmode 1
 
 ;背景変更
 bg "image\storybg.jpg",3
-――――初めに。
+;――――初めに。
+The story begins...
 br
 ;　私立高校の二年生である遠野志貴は、人より少しだけ特別な力があった。
 　The second-year high school student Tohno Shiki has a power that's a bit more special that most's.
@@ -31,7 +32,7 @@ br
 ;物の『死』を見てしまうようになっていたのだ。
 Shiki has been able to see the "death" of things.
 ;　どんな物体、どんな生物にも壊れやすい一点、そこをなぞれば『殺して』しまう/
-　In all objects, and all life, exists a point where they are most easily broken,/
+　In all objects, and all life, exists a point where they are most easily broken――/
 ;線というモノがある。
 lines which when traced "kill" the object in question.
 ;　志貴の両目は、そういった概念でしかないモノを捉えられるようになっていた。\
@@ -53,25 +54,25 @@ br
 ;　十月、初秋。
 　October, beginning of fall
 ;　いままで養子あつかいで親戚の家にあずけられていた志貴は、五年ぶりに本家である/
-　Having spent the last five years in the care of his relatives being treated almost like an adopted child,/
+　Having spent the last five years being treated almost like an adopted child while in the care of his relatives,/
 ;遠野の屋敷に舞い戻ることとなった。
 Shiki has finally had to return to his real home, the Tohno mansion.
 br
 ;　自分を嫌っていた父が病死し、五年前にわかれたきりの妹が遠野の家を継いだため、/
-　The father who so despised him has died of an illness, and his younger sister, who he hasn't seen in five years, has inherited the house,/
+　The father who so despised him has died of an illness, while his younger sister, who he hasn't seen in five years, has inherited the house,/
 ;志貴は屋敷に戻れるのだという。
 and decided to bring him back to the mansion.
 ;　いまさら遠野の家に戻る気のない志貴だが、妹である秋葉が屋敷に一人きりと聞いては/
-　Shiki wasn't planning on returning to the Tohno family after so long, but after hearing that his sister Akiha would be all alone in the mansion,/
+　Shiki wasn't planning on returning to the Tohno family after so long, but when he heard that his sister Akiha would be all alone in the mansion,/
 断ることはできない。
 he could no longer refuse the offer.
 ;　志貴は五年ぶりに遠野の屋敷に戻ることとなる。\
-　As such, he returned to the Tohno mansion after five years of absence.\
+　As such, he has now returned to the Tohno mansion after his five years of absence.\
 
 ;　自分が十二歳のころにわかれた家と妹。
 　Toward a home and sister he parted with when he was twelve-years-old.
 ;　死にかけるほどの事故をおこしてしまった、もう記憶にも残っていない古い屋敷へ。
-　Toward an old mansion that no longer lingers in his memories, where his fatal accident had taken place.
+　Toward an old mansion that no longer lingers in his memories, where his fatal accident took place.
 br
 ;―――思えば、それが或る物語の発端だった。\
 ...On reflection, that was the start of this tale.\
@@ -81,14 +82,14 @@ br
 ;　その日はよく晴れた日曜日。
 　It was Sunday, the sky bright and clear.
 ;　夏の面影を濃くのこした日中で、志貴は街を歩くひとりの女性をみかけた。
-　Under the still summery blare of the sun, Shiki was walking through the city when he spotted a lone woman.
+　Shiki was walking through the city under the still summery blare of the sun when he spotted a woman.
 ;　白い服をきた、一人の金髪の女。
 　A lone, blonde woman clad in white.
 br
 ;　彼女を見た瞬間、志貴は目の前がくらくらとゆれて、まともに立っていられなくなった。
 　The instant he laid his eyes on her, his vision began to swim, and he could barely stand upright anymore.
 ;　のどは乾いて呼吸さえ困難になり、体は砂漠になげこまれたみたいに汗ばんでいく。
-　His throat parched and his breating became strained. His body began sweating as if it had been thrown into a desert.
+　His throat parched and his breathing became strained. His body began sweating as if it had been thrown into a desert.
 br
 ;　一目惚れだとしても、それは明らかに異常な感覚だったろう。
 　Even for love at first sight, the sensation was clearly abnormal.
@@ -105,10 +106,10 @@ br
 ;　遠野志貴はそういう性癖を持つ人間ではなかったし、殺してしまった後でさえそんな事を/
 　Tohno Shiki was not someone with those kind of sexual perversions, and he certainly didn't understand the reason for why/
 ;してしまった理由はわからなかった。
-he would do something like that after the kill.
+he would do something like that even after the kill.
 br
 ;　ただ、事実としてあるのは白い服の女のアパートにいる自分と、床に散らばった彼女の/
-　However, the facts remained that he was in the white-clad woman's apartment,/
+　However, the fact remained that he was in the white-clad woman's apartment,/
 ;死体だった。
 while her corpse was scattered upon the floor.
 ;　尾行のはてに女の家の呼び鈴をおして中に押し入り、あまつさえ殺してしまう/
@@ -123,7 +124,7 @@ That wasn't something Shiki was in the habit of doing.
 which allowed him to see "death".
 
 ;　それだけが現実味のある出来事であり、それこそが現実味のない手段だったのだ。
-It was the only part that had felt real, and yet, the method had been what was most unreal of all.
+　It was the only part that had felt real, and yet, the method had been what was most unreal of all.
 br
 br
 ;　わけもわからず志貴は遠野の屋敷へと逃げかえる。
@@ -166,7 +167,7 @@ br
 "Good day to you."
 br
 ;　交差点のむこうで彼女はそう囁いたように見えた。
-　It almost seemed as she had whispered that from across the intersection.
+　It almost seemed as she had whispered it from across the intersection.
 
 ;　志貴は何も考えられず、ただその場から走り出していた。\
 　Refusing all thought, Shiki broke out into a sprint to just... get away.。\
@@ -174,15 +175,15 @@ br
 ;　逃げる志貴を彼女はおいかけてくる。
 　She chased after the fleeing Shiki.
 ;　心臓が口から吐き出されそうなほど全力で志貴が走っても、彼女は軽やかな足取りで/
-Shiki ran so hard it almost felt like his heart risked spilling from his mouth, and yet with light steps/
+Shiki ran so hard it almost felt like his heart risked spilling from his mouth, and yet with light steps,/
 ;追いついてきた。
 she followed right after him.
 
 br
 ;　やがて路地裏に追いつめられた志貴に、彼女は自らの正体を明かす。
-　Soon finding himself cornered in a back alley, the woman revealed her identity to Shiki.
+　Having cornered Shiki in a back alley, the woman revealed her identity to him.
 ;　彼女の名はアルクェイド。なんでも人間には吸血鬼と呼ばれる不死の生物という事だ。
-Her name was Arkaid. Apparently she was a undying creature known by humans as a vampire
+Her name was Arkaid. Apparently she was a undying creature known to humans as a vampire
 br
 ;　―――なんて、出来の悪い笑い話。
 　...Talk about a bad joke.
@@ -201,7 +202,7 @@ br
 ;　アルクェイドは志貴に復讐するつもりなどなく、むしろその能力を評価していた。
 　Arkaid had no intentions of enacting vengeance upon Shiki, on the contrary, she had been impressed by his abilities.
 ;　過去においていかなる手段をもってしても殺されなかった自分を一瞬にしてバラした人間。
-　A human who could dismember her in an instant when in the past not a single method had been capable of slaying her.
+　He was a human who could dismember her in an instant when in the past not a single method had been capable of slaying her.
 ;　その力があるのなら、彼女が長く処刑できずにいた同族を殺せるのではないか、と期待して。\
 　With that kind of power, she was hoping he would be able to kill one of her kindred that she had long been unable to execute.\
 br
@@ -311,7 +312,7 @@ It's a game which revolves around the protagonist Tohno Shiki, who possesses a p
 ;ヒロインを主軸にしてゲームは展開して行きます。
 as well as the three enigmatic and alluring heroines.
 ;それぞれの運命、それぞれの闘い、そしてそれぞれの恋愛。
-Each with their own fates, battles and romances.
+Each of them with their own fates, battles and romances.
 ;既存のゲームに負けないものを目指して、鋭意制作中です。
 We aim to create something that matches up with other games in the space, and are hard at work producing the game.
 ;ご期待ください。\
@@ -328,7 +329,7 @@ as well as H-scenes.
 ;文章や画像は制作中のものの為、実際のゲームで使われるものとは異なる可能性がありますが、/
 Both text and images are a work in progress, and as such, it is possible they won't be used in the actual game./
 ;少しでも作品の雰囲気やキャラクターの魅力を伝えれることが出来れば幸いです。\
-However, if that's enough to convey the atmosphere of the game and the characters' charms, we couldn't be happier.
+However, if they prove enough to convey the atmosphere of the game and the characters' charms, we couldn't be happier.
 
 ;「月姫_」の発売は２０００年の初旬を予定しています。
 Tsukihime is planned to be available for purchase in early 2000.
@@ -490,7 +491,7 @@ Royalty among the inhuman bloodsuckers known as the True Ancestors.
 ;ある事情で日本にやってきて、主人公と知り合う。
 She arrives in Japan because of personal circumstances and so becomes acquainted with the protagonist.
 ;世間ズレしていて人間としての常識にかけているけれ/
-She is not wise in the way of the world and lacks human common sense,/
+She is not wise in the way of the world and lacks common sense,/
 ;ど、人間社会に害はおよぼさない。
 but does not cause harm to human society.
 ;というより、人間については関心がもてないご様子。
@@ -529,7 +530,7 @@ br
 ;　主人公の妹。
 　The protagonist's younger sister.
 ;資産家である遠野家の現在の当主。
-The current head of the plutocrat Tohno family.
+The current head of the plutocratic Tohno family.
 ;主人公より一歳歳下で、全寮制のカトリック学園の一/
 One year younger than the protagonist. Attends a catholic boarding school/
 ;年生。
@@ -546,13 +547,13 @@ but the way the two live together now, she treats him like/
 he is a completely different person.
 
 ;黒い長髪が印象的な、典型的日本美人。
-She has long black hair stereotypical of the traditional Japanese beauty.
+She has long, black hair stereotypical of the traditional Japanese beauty.
 ;一途な性格で、何事にも厳しいので生まれついての委/
 She has a single-minded personality, and is strict about everything――a born student council president/
 ;員長タイプ。
 type of person.
 ;自由奔放に育ってきた主人公とは違い、厳しい英才教/
-In contrast to the protagonist, who was raised with freedom to enjoy, she received/
+In contrast to the protagonist, who was raised with freedoms to enjoy, she received/
 ;育をうけたためにがっちがっちの\お堅い人となりになっ/
 a strict upbringing and has become a very straight-laced/
 ;てしまっている。
@@ -561,9 +562,9 @@ person as a result.
 ;本編のヒロインの一人。
 One of the heroines of the story.
 ;屋敷に戻ってきた主人公のiさに文句をいいつつ/
-She constantly berates the protagonist after he's returned to the mansion for his/
+She constantly berates the protagonist for his unrefined manners when he has/
 ;も、きちんと主人公を「兄さん」と呼ぶ素直じゃない女の/
-unrefined manners, but still dutifully addresses him as "nii-san"――someone who can't be honest with their own/
+returned to the mansion, but still dutifully addresses him as "nii-san"――someone who can't be honest with their own/
 ;子。\
 feelings.\
 
@@ -596,7 +597,7 @@ Cheerful and positive-minded, she is a good person to a fault,/
 ;どのいい人。
 who loves to help others out.
 ;　誰に対しても丁寧な言葉遣いをする。
-　She speaks politely to everyone she talks to.
+　She is polite to everyone she speaks to.
 ;黒ぶちのメガネとしゃきしゃきと小気味よく動き回る行/
 Her trademarks are her black-rimmed glasses and the brisk and agile
 ;動がトレードマーク。
@@ -605,9 +606,9 @@ way she moves about.
 ;本編のヒロインの一人。
 One of the heroines of the story.
 ;顔とキャラクターに似合わず、なんでか何らかの刃物/
-From her looks, you'd never guess she 's always carrying around some sort of /
+From her looks, you'd never guess she's always carrying around some sort of /
 ;をいつも携帯している。さいわい刃物を振り回したりする/
-blades. Luckily, she never swings them about,/
+blades. Luckily, she never swings them around,/
 ;ことはないので安心です。\
 so you can rest easy.\
 
@@ -615,7 +616,7 @@ bg "image\ciel2.jpg",3
 ;「ま、しかたないですね。わたし、昔っから誰かの世話を/
 "Oh, what choice do I have? I've always, since way back, really/
 ;やくのが好きなんです。だから志貴くんが立ち直るまで、/
-liked helping people out. So until you can make it own your own again,/
+liked helping people out. So until you can make it on own your own again,/
 ;ずっと一緒にいてあげますよ」\
 I'll be with you the whole way."
 
@@ -628,13 +629,13 @@ br
 ;主人公の住む屋敷に仕えている、双子のメイドの一人。
 One of the twin maids who serves at the mansion that the protagonist lives at.
 ;屋敷の生活に慣れない主人公の世話役をすることに。
-She becomes the caretaker of the protagonist as he has trouble getting used to life at the mansion.
+She becomes the caretaker of the protagonist who has trouble getting used to life at the mansion.
 ;姉の琥珀とは対照的で、無感動で事務的な性格。
 In contrast to her older sister Kohaku, she has a dispassionate and professional personality.
 ;極度の潔癖症で、異性とのふれあいを嫌っている。
 She loathes coming into contact with the other gender due to being an extreme clean-freak.
 ;出そうだが、目からビームは出ない。\
-It might seem like it, but she doesn't actually shoot beams from her eyes.\
+She doesn't actually shoot beams from her eyes, even if it might seem like she does.\
 
 bg "image\kohaku.jpg",3
 br
@@ -648,9 +649,9 @@ The maid who manages all of the chores in the mansion, assigned to the protagoni
 ;明るく気さく。笑顔をたやさないほごらかな人柄。
 Cheerful, friendly, always smiling, and with a warm disposition. 
 ;本人はかなりしっかりしているのに、なぜかトラブルを巻き起こす。
-For how dependable she can be, she is always causing problems for whatever reason.
+In spite of how dependable she can be, she is always causing problems for some reason.
 ;なにかと猟奇猟奇している本編でのなごみ担当。…らしい。\
-There to provide moments of leisure to the rather grotesque story... apparently.\
+There to provide moments of respite from the rather grotesque story... apparently.\
 
 ;-------------------------------------------------------------------------------
 ;	スクリプトブロック終了
@@ -705,11 +706,11 @@ is Arkaid.\
 ;何時間も待ちぼうけで約束を反故させられたんだって気/
 After I'd been left waiting for hours and hours and noticed our promise had been broken,/
 ;づいた時は自分でも驚くぐらい頭に血がのぼったわ。こ/
-I got so upset it surprised even me./
+I got so upset that it surprised even me./
 ;のままじゃすまさない、乗り込んでいって殺してやるって/
 It was so bad I thought I'd better barge in here and kill you/
 ;思ったぐらいに」\
-or else I don't know what would happen."
+or else I didn't know what would've happened."
 ;「―――たまんねえな、そりゃあ」
 "Well, that's great, ain't it..."
 ;自分の首が無事なのをかみさまに感謝しながら、そん/
@@ -727,13 +728,13 @@ The way you slept was almost like you were dead――so much so that/
 ;いんじゃないかって不安になったぐらいに」\
 I got worried you'd never wake up ever again."
 ;「…不安だったら起こしてくれ。こっちはおまえに横にい/
-"If you were worried then wake me up. Having you right next to me/
+"If you were so worried then wake me up. Having you right next to me/
 ;られるほうがよっぽど不安だよ」
 has got me way more worried, personally."
 ;「でも、起こすのももったいなかった。…わたし、自分が/
 "But... waking you up would've been a waste. Myself, I don't know/
 ;眠っている姿はしらないけど、あなたみたいに眠れるの/
-how I look when I'm sleeping, but if I could sleep the way you do,/
+how I look like when I'm sleeping, but if I could sleep the way you do,/
 ;なら幸せかもしれないって思えてきちゃった。…で、気/
 I started thinking that'd be wonderful in a way... and then, before I knew it,/
 ;がついたら気持ちが落ち着いてたの」\
@@ -753,13 +754,13 @@ Arkaid's body is extremely soft――no, unbelievably so.
 ;くぼんだヘソのラインに指をなぞるだけで、指先がしびれるようだ。\
 Just tracing my hand across the curves of her concave navel makes the tips of my finger tingle.
 ;胸や足にふれるまでもない。
-I don't even have to touch breasts or legs.
+I don't even have to touch her breasts or legs.
 ;こんなんじゃ、だだ肌に触れているだけで達してしまうかもしれない。
 Just touching her skin like this is almost enough to make me come.
 ;「…志貴…？」
 "Shiki...?"
 ;体を地面にあずけたまま、アルクェイドは俺を見上げる。
-With her body steadied against the g round, Arkaid looks up at me...
+With her body steadied against the ground, Arkaid looks up at me...
 ;不安そうな目で、なにかにおびえるように。\
 Her eyes uncertain, almost as if afraid of something.
 
@@ -772,21 +773,21 @@ I forcefully press Arkaid against the ground and force her slender legs open.
 ;「次、行くぞ」
 "I'm going again."
 ;「………ん」
-"Okay..."
+"...Okay."
 ;こくん、と微かにアルクェイドは頷く。
 Arkaid nods ever so slightly.
 ;初めてという羞恥心からか、彼女の頬は紅をさしたように赤い。
 Her cheeks are flushed an almost painterly red, perhaps from how shy she feels from doing it her first time.
 ;上気する肌と体温も赤。こわばる表情も強く握られた手の平も、温かい、人の生命を感じさせる。\
-Her feverish skin and heat are red too. Her strained expression, and her tightly curled hands are... both warm, filled with the sensation of life.\
+Her feverish skin and body heat are red too. Her strained expression, and her tightly curled hands are both warm, filled with the sensation of life.\
 ;「…志貴、わたし、あつい」
 "Shiki... I'm, hot..."
 ;とぎれとぎれに吐き出す吐息も紅く見える。
-The intermittent breaths coming from her also appear red.
+The intermittent breaths coming from are tinged as red as the rest.
 ;今目前にいるアルクェイドは、俺の知っているアルクェイドじゃない。
 The Arkaid currently before my eyes is not the Arkaid I know.
 ;ただ流れる金髪だけが、以前の彼女の面影をとどめている。\
-Only her flowing blonde hair betrays a shadow of her former self.
+Only her wavy blonde hair betrays a shadow of her former self.
 ;「――――ッ！」
 "...Ngh!"
 ;くん、と微かにアルクェイドの胸がそりあがる。
@@ -887,14 +888,14 @@ My breathing is... heavy.
 ;初めての痛みに苦しむアルクェイドより、俺の呼吸は乱れている。
 I'm breathing more wildly than even Arkaid did when she was suffering from the pain of her first time.
 ;このまま、砕けてしまいそうで。
-It's like I'll shatter into pieces if this keeps up.
+It's almost like I'll shatter into pieces if this keeps up.
 ;その破滅そのものが、とても甘美なものに感じてしまう。
 And in fact, I feel something very alluring about an end like that.
 ;それは恐くて、たとえようもなく嬉しい錯覚だ。\
-It's a scary, yet also, incomparably happy and illusory feeling.
+It's a scary yet also incomparably happy and illusory feeling.
 
 ;――なにか、ひどく彼女のなかは違う。\
-Something... feels awfully different about her insides.
+Something feels... awfully different about her insides.
 
 ;体じゅうの皮膚に火花が咲いている。
 Fireworks burst into life all across the skin of my body.
@@ -907,7 +908,7 @@ I have a hard time hearing the words of the squirming and agony-afflicted Arkaid
 ;思考がしびれて、世界がつかめない。
 My thinking numbs and I can't grasp the world around me.
 ;飲みこまれているのは俺の触覚だけなのか、それとも本当に俺自身が呑まれているのか。
-Is the feeling of being engulfed just coming from my senses, or am I actually being devoured? 
+Is the feeling of being engulfed just a sensation, or am I actually being devoured? 
 ;そんな単純な事さえ、麻酔されていってしまう。\
 Even a simple question like that is afflicted by this stupor.
 
@@ -991,40 +992,40 @@ Kohaku: "Uh, I mean, of course!"
 ;翡翠「…じゃあ、がんばる」
 Hisui: "...Fine, I'll try my best then."
 ;琥珀「うんうん。可愛い翡翠ちゃんの協力が得られた所で、月姫についてもう少し語りましょう」
-Kohaku: "Good, good. Now with the cute Hisui-chan's cooperation secured, I'll talk a bit more about Tsukihime."
+Kohaku: "Good, good. With the cute Hisui-chan's cooperation secured, I'll talk a bit more about Tsukihime."
 ;「ジャンルは伝奇アダルトです。形式はサウンドノベル。キャラクターは多彩ですね。金髪外人あり、めがねあり、妹あり、メイドあり、割烹着あり。グラフィッカーとシナリオライターの煩悩が炸裂してます」
 ;TL Note - 伝奇 isn't exactly easy to translate. Might leave as is?
-"Its genre is supernatural adult, and its medium is sound novel. The characters are varied, aren't they? Blonder foreigners, glasses, little sisters, maids, aprons... the artist and writer's worldly desires have spilled all over the place."
+"Its genre is supernatural adult, and its medium is sound novel. The characters are very varied, aren't they? Blonde foreigners, glasses, little sisters, maids, aprons... the artist and writer's worldly desires have spilled all over the place."
 ;翡翠「そうなの？」
 Hisui: "Really now?"
 ;琥珀「そーだよ。ふたりはもう、これ出来あがったら干からびるんじゃないかな。ぱりぱりに」
-Kohaku: "Really-really. The two of them think they might dry up completely once they're done. All shriveled up.
+Kohaku: "Really, really. The two of them think they might dry up completely once they're done. All shriveled up.
 ;翡翠「それだけ気合がはいってる？」
 Hisui: "So they're giving it they're all, you mean?"
 ;琥珀「うんうん。良いこと言うね、翡翠ちゃん。それじゃあ各ヒロインの魅力を説明しますね」\
-Kohaku: "Good, good. What a nice thing to say, Hisui-chan. Alright, time to explain each heroine's charm points, okay?"\
+Kohaku: "Wow, wow. What a nice thing to say, Hisui-chan. Alright, time to explain each heroine's charm points, okay?"\
 cl l,4
 cl r,4
 bg "image\omake1.jpg",3
 ;琥珀「まずこれが正ヒロインのアルクエイド。全ての元凶のカマトト吸血鬼です。イメージは白ですね。純粋で気高く美しいという、正当派のヒロインさんですが、その本性はただの怪物です。こわーい」
-Kohaku: "First is the main heroine, Arcueid. The vampire who innocently pretends everything isn't her fault. Her motif is white. A tried-and-true, pure and beautiful kind of heroine. Still, her true nature is nothing more than that of a monster. Scaaaaary."
+Kohaku: "First is the main heroine, Arkaid. The vampire who innocently pretends everything isn't her fault. Her motif is white. A tried-and-true, pure and beautiful kind of heroine. Still, her true nature is nothing more than that of a monster. Scaryyy."
 ;翡翠「…ね、ねえさん？」\
 Hisui: "N-Neesan...?"\
 bg "image\omake2.jpg",3
 琥珀「次は彼女。遠野秋葉さん。主人公志貴さんの妹さん。我侭で高飛車な嫌な女ですけど、ほんとは冷血です。ちなみに私は秋葉様付きのメイドです。翡翠ちゃんは志貴さま付きなんだよね。いいなー。代わってほしいよー」
-Kohaku: "Next we have her, Tohno Akiha-san. The younger sister of Shiki, the protagonist. A selfish, domineering, and unpleasant woman, but really, she's completely cold-hearted. By the way, I'm her personal maid. Hisui-chan is Shiki-sama's instead. Don't you have it good? Can we swap, pleeaaase?"
+Kohaku: "Next we have her, Tohno Akiha-san. The younger sister of Shiki, the protagonist. A selfish, domineering, and unpleasant woman, but really, she's completely coldhearted. By the way, I'm her personal maid. Hisui-chan is Shiki-sama's instead. Don't you have it good? Can we swap, pleeaaase?"
 翡翠「ねえさんてば…」\
 Hisui: "Nee-san, you can't..."\
 bg "image\omake3.jpg",3
 ;琥珀「最後はシエル先輩。世話好きな素敵な方です。要するに偽善者ですね。あとはよく知りません。メガネ描きにく～い」
-Kohaku: "Lastly we have Ciel-senpai. A wonderful girl who loves helping out. So basically, a hypocrite. I don't know much more than that. Glasses are hard to draawww..."
+Kohaku: "Lastly we have Ciel-senpai. A wonderful girl who loves helping people out. So basically, a hypocrite. I don't know much more than that. Glasses are hard to draawww..."
 ;翡翠「おこられちゃうよ…」\
 Hisui: "You'll get chewed out for this..."\
 bg "image\sora.jpg",3
 ld r,":a;image\kohaku_c.jpg",4
 ld l,":a;image\hisui_c.jpg",4
 ;琥珀「大丈夫大丈夫。嘘は言ってないもん。例え一面的な捉え方だとしても、真実には変わりないのよ。翡翠ちゃんも覚えておきなさい。人なんてね、悪く言おうと思えばいくらでも悪く言えるんだから。それにここで正ヒロインを叩いておけば、後々あたし達のシナリオが出来やすくなると思うのよね」
-Kohaku: "It's fine, it's fine. It's not like I'm not lying. Even if it's one-sided way of seeing them, it doesn't change the truth of the matter. Do well to understand this, Hisui-chan. Anyone who wants to say bad things about people will say as many bad things as they can. Also, if I bash the main heroines here, I think it'll be easier for us to get our own routes later."
+Kohaku: "It's fine, it's fine. It's not like I'm not lying or anything. Even if it's one-sided way of seeing them, it doesn't change the truth of the matter. Do well to understand this, Hisui-chan. Anyone who wants to say bad things about people will say as many bad things as they can. Also, if I bash the main heroines here, I think it'll be easier for us to get our own routes later."
 ;翡翠「…いろいろ計算してるんだ」
 Hisui: "You sure are calculating..."
 ;琥珀「苦労してるからね。うん」
@@ -1053,11 +1054,11 @@ Kohaku: "Oh, uhh, j-just kidding, ahaha..."
 ;翡翠「…。じゃ、サウンドの方」
 Hisui: "...Well, what about the sound?"
 ;琥珀「10曲ぐらいになるかな。音源は未定だけど、サウンド担当の作る奇麗でモノ悲しい音楽は月姫の世界観にぴったりです。あんまりにもシナリオライターの表現したい世界をそのまま音楽にしてるものだから、シナリオライター暴走気味です。奴は只でさえブレーキ弱いのだから、勘弁してくれってものですね」
-Kohaku: "There'll probably be about 10 tracks. Sound-chip is still undecided, but the ephemeral and tragic music created by the sound-lead fits the Tsukihime atmosphere like a glove. It fits so well with the world that the story-lead wanted to created that he's gone completely out of control. And this is someone who is hard to put the breaks on even under normal circumstances, so it's really quite the situation."
+Kohaku: "There'll probably be about 10 tracks. Sound-chip is still undecided, but the ephemeral and tragic music created by the sound-lead fits the Tsukihime atmosphere like a glove. It fits so well with the world that the story-lead wanted to create that he's gone completely out of control. And this is someone who is hard to put the breaks on even under normal circumstances, so it's really quite the situation."
 ;翡翠「システムは既存のツールを使うって…？」
 Hisui: "I heard the engine is non-proprietary?"
 ;琥珀「うんうん。高橋直樹さんのＮｓｃｒｉｐｔｅｒというフリーウェアを使わせてもらう予定です。現在プログラム担当が色々と模索中。今回の予告編も上記のソフトで作成してます。わかりやすくて多機能な優れものなのです。高橋さんありがとう」
-Kohaku: "Yep, yep. We plan to use the freeware NScripter made by Takahashi Naoki-san. The programming-lead is currently on the look out for options. This preview version was also made using the previous mentioned software. It's easy to understand and boasts tons of useful features. Thank you, Takahashi-san."
+Kohaku: "Yep, yep. We plan to use the freeware NScripter made by Takahashi Naoki-san. The programming-lead is currently on the look out for options. This preview version was also made using the previously mentioned software. It's easy to understand and boasts tons of useful features. Thank you, Takahashi-san."
 ;翡翠「ありがとう」
 Hisui: "Thank you."
 ;琥珀「さーて、そろそろお別れの時間です。スタッフ一同頑張っておりますので、どうか見捨てないでください」
@@ -1065,7 +1066,7 @@ Kohaku: "Now then, it's about time for us to say good bye. The whole staff is do
 ;翡翠「見捨てないでください」
 Hisui: "Please don't give up on us."
 ;琥珀「感想や声援をお待ちしてます。次お会いするのは製品版ですね。発売は2000年の春を予定してます。詳しくはＨＰで告知して行きますのでそちらを参考にしてくださいませ。
-Kohaku: "We're expecting your comments and words of support. We'll meet next time in the demo version.  We're expecting to release it in spring of 2000. More details will be announced on the website, so please look there for more information.
+Kohaku: "We're expecting your comments and words of support. Next time we meet will be the demo version.  We're expecting to release it in the spring of 2000. More details will be announced on the website, so please look there for more information.
 ;では春まで、ばいばいです。ほら翡翠ちゃんもいっしょに。ばいばーい」
 Right, now bye-bye until spring. Hey. Hisui-chan, all together now. Bye byeee!
 ;翡翠「…ばいばい」
@@ -1092,7 +1093,7 @@ Kohaku: "Uh? A-Again?"
 ;翡翠「…だめ？」
 Hisui: "...We can't?"
 ;琥珀「あ、うそうそ。全然おっけー。れっつごー（とほほ）」
-Kohaku: "Ah, just kidding! It's totally okay. Let's goooo! (*cries*)"
+Kohaku: "Ah, just kidding! It's totally okay. Let's goooo! (*sobs*)"
 ;翡翠「♪」\
 Hisui: "♪"\
 
