@@ -1129,16 +1129,15 @@ ld l,":a;image\hisui_c.jpg",4
 `Hisui: "...Well, what about the sound?"\
 ;琥珀「10曲ぐらいになるかな。音源は未定だけど、サウンド担当の作る奇麗でモノ悲しい音楽は月姫の世界観にぴったりです。あんまりにもシナリオライターの表現したい世界をそのまま音楽にしてるものだから、シナリオライター暴走気味です。奴は只でさえブレーキ弱いのだから、勘弁してくれってものですね」
 `Kohaku: "There'll probably be about 10 tracks. Sound-chip is still undecided.\
-`Kohaku: But the ephemeral and tragic music created by the Sound Lead fits the Tsukihime atmosphere like a glove.\
-;Scripter note - job titles - roles are IIRC typically Capitalized i.e "Sound Lead" "Story Lead" - correct if wrong
-`Kohaku: It fits so well with the world that the Story Lead wanted to create that he's gone completely out of control.\
+`Kohaku: But the ephemeral and tragic music created by the sound lead fits the Tsukihime atmosphere like a glove.\
+`Kohaku: It fits so well with the world that the story lead wanted to create that he's gone completely out of control.\
 `Kohaku: And this is someone who is hard to put the breaks on even under normal circumstances.\
 `Kohaku: So it's really quite the situation."@
 ;翡翠「システムは既存のツールを使うって…？」
 `Hisui: "I heard the engine is non-proprietary?"\
 ;琥珀「うんうん。高橋直樹さんのＮｓｃｒｉｐｔｅｒというフリーウェアを使わせてもらう予定です。現在プログラム担当が色々と模索中。今回の予告編も上記のソフトで作成してます。わかりやすくて多機能な優れものなのです。高橋さんありがとう」
 `Kohaku: "Yep, yep. We plan to use the freeware NScripter made by Takahashi Naoki-san.\
-`Kohaku: The programming-lead is currently on the look out for options.\
+`Kohaku: The programming lead is currently on the look out for options.\
 `Kohaku: This preview version was also made using the previously mentioned software.\
 `Kohaku: It's easy to understand and boasts tons of useful features. Thank you, Takahashi-san."\
 ;翡翠「ありがとう」
