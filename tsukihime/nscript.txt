@@ -21,7 +21,6 @@ rmode 1
 ;背景変更
 bg "image\storybg.jpg",3
 ;――――初めに。
-;TL Note - these lines aren't used in English typography.
 `　The story begins.@
 br
 ;　私立高校の二年生である遠野志貴は、人より少しだけ特別な力があった。
@@ -515,7 +514,7 @@ bg "image\ark1.jpg",3
 ;真祖とよばれる「人間外_」の吸血種の王族。
 `Royalty among the inhuman bloodsuckers known as the True Ancestors.\
 ;ある事情で日本にやってきて、主人公と知り合う。
-`Having come toJapan because of personal circumstances, she becomes acquainted with the protagonist.\
+`Having come to Japan because of personal circumstances, she becomes acquainted with the protagonist.\
 ;世間ズレしていて人間としての常識にかけているけれ/
 `She is not wise in the way of the world and lacks common sense, /
 ;ど、人間社会に害はおよぼさない。
@@ -708,7 +707,7 @@ br
 ;ベッドで横になったまま、ごろんと首を横にする。
 `　Still lying down in bed, I flop my head to side.
 ;とたん――何も、考えられなくなった。
-`@And then... my thoughts stop in their track .@
+`@And then... my thoughts stop in their track.@
 br
 ;「あ、やっと起きたな、こいつめ」
 `"Ah, finally awake, aren't you, you little punk."\
@@ -731,10 +730,11 @@ br
 ;何時間も待ちぼうけで約束を反故させられたんだって気/
 `　"After I'd been left waiting for hours and hours and noticed our promise had been broken,/
 ;づいた時は自分でも驚くぐらい頭に血がのぼったわ。こ/
-`I got so upset that it surprised even me.@
+`I got so upset that it surprised even me".@
+;Scripter note; - "" section starts at 730 and ends at 735.
 br
 ;のままじゃすまさない、乗り込んでいって殺してやるって/
-`　It was so bad I thought I'd better barge in here and kill you@ /
+`　"It was so bad I thought I'd better barge in here and kill you@ /
 ;思ったぐらいに」\
 `or else I didn't know what would've happened."@
 br
@@ -749,7 +749,7 @@ br
 ;ら待ってあげることにしたの。やる事もないし、しばらく/
 `so I decided to wait for you.@ I had nothing to do, so for a while /
 ;あなたの寝顔を見てた。…うん、恐いくらい、静かだった。
-`I just watched your sleeping face...@ and...@ it was almost...@ scarily quiet.\
+`I just watched your sleeping face...@ and...@ it was almost...@ scarily quiet."\
 ;死んでいるみたいに眠っていて、もう起きあがる事はな/
 `　"The way you slept was almost like you were dead----so much so that /
 ;いんじゃないかって不安になったぐらいに」\
@@ -767,7 +767,7 @@ br
 ;なら幸せかもしれないって思えてきちゃった。…で、気/
 `I started thinking that'd be wonderful in a way...@ and then, before I knew it, /
 ;がついたら気持ちが落ち着いてたの」\
-`I'd calmed down.\
+`I'd calmed down."\
 
 bg "image\ark_h1.jpg",3
 
@@ -786,7 +786,9 @@ br
 `　Just tracing my hand across the curves of her concave navel makes the tips of my finger tingle.@
 br
 ;胸や足にふれるまでもない。
-`　I don't even have to touch her breasts or legs. 
+`　I don't even have to touch her breasts or legs.@ /
+;Scripter note -continue prompt @ was removed (typically used after dots) - if intentional remove again
+;Scripter note - added / afterwards to keep the following line in same section remove / if intentionally separated
 ;こんなんじゃ、だだ肌に触れているだけで達してしまうかもしれない。
 `Just touching her skin like this is almost enough to make me come.\
 ;「…志貴…？」
@@ -800,7 +802,7 @@ br
 
 
 ;一度や二度では全然たらない。
-`Just once or twice isn't enough.@ Not even close.@ /
+`　Just once or twice isn't enough.@ Not even close.@ /
 ;力任せにアルクェイドを床におしつけて、細い両足を開かせる。
 `I forcefully press Arkaid against the ground and force her slender legs open.@
 br
@@ -868,10 +870,11 @@ br
 `Tears stream from her eyes, as if they are the price she has to pay for bottling up those emotions.@
 br
 ;「まだ痛いか……？」
-`　"Does it still hurt?"@ /
+`　"Does it still hurt?"@
 ;アルクェイドは答えない。
 ;This line doesn't line break for some reason? Make it line break.
-`Arkaid doesn't answer.@
+;Scripter note; - break added, it continued on the same line due to a misplaced / at the end of the line
+`Arkaid doesn't answer.@ /
 ;ただ痛みに耐えている顔。
 `She simply bears the pain.\
 ;「…わかった、一度抜くよ」
@@ -1008,8 +1011,9 @@ ld c,":a;image\kohaku_c.jpg",4
 ;琥珀「こんにちは、初めまして」
 `Kohaku: "Good day, pleased to meet you."\ 
 ;琥珀「この度は「月姫_」お予告フロッピーを購入していただきありがとうございました。私は遠野の家に仕える琥珀と申します」\
-`Kohaku: "Thank you very much for taking the opportunity to purchase the Tsukihime promotional floppy disk.\ 
+`Kohaku: "Thank you very much for taking the opportunity to purchase the Tsukihime promotional floppy disk."\ 
 `Kohaku: "My name is Kohaku, and I'm one of the maids serving the Tohno family."\
+;Scripter note; - split "" since these are own "pages" in the ADV window (marked by \ at the end of a line)
 
 cl c,4
 ld c,":a;image\hisui_c.jpg",4
