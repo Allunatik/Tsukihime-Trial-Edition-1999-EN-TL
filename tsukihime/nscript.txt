@@ -1097,7 +1097,7 @@ bg "image\sora.jpg",3
 ld r,":a;image\kohaku_c.jpg",4
 ld l,":a;image\hisui_c.jpg",4
 ;琥珀「大丈夫大丈夫。嘘は言ってないもん。例え一面的な捉え方だとしても、真実には変わりないのよ。翡翠ちゃんも覚えておきなさい。人なんてね、悪く言おうと思えばいくらでも悪く言えるんだから。それにここで正ヒロインを叩いておけば、後々あたし達のシナリオが出来やすくなると思うのよね」
-`Kohaku: "It's fine, it's fine. It's not like I'm not lying or anything."\
+`Kohaku: "It's fine, it's fine. It's not like I'm lying or anything."\
 `Kohaku: "Even if it's one-sided way of seeing them, it doesn't change the truth of the matter."\
 `Kohaku: "Do well to understand this, Hisui-chan."\
 `Kohaku: "Anyone who wants to say bad things about people will say as many bad things as they like."\
