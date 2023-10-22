@@ -731,7 +731,6 @@ br
 `　"After I'd been left waiting for hours and hours and noticed our promise had been broken,/
 ;づいた時は自分でも驚くぐらい頭に血がのぼったわ。こ/
 `I got so upset that it surprised even me".@
-;Scripter note; - "" section starts at 730 and ends at 735.
 br
 ;のままじゃすまさない、乗り込んでいって殺してやるって/
 `　"It was so bad I thought I'd better barge in here and kill you@ /
@@ -787,8 +786,6 @@ br
 br
 ;胸や足にふれるまでもない。
 `　I don't even have to touch her breasts or legs.@ /
-;Scripter note -continue prompt @ was removed (typically used after dots) - if intentional remove again
-;Scripter note - added / afterwards to keep the following line in same section remove / if intentionally separated
 ;こんなんじゃ、だだ肌に触れているだけで達してしまうかもしれない。
 `Just touching her skin like this is almost enough to make me come.\
 ;「…志貴…？」
@@ -872,8 +869,6 @@ br
 ;「まだ痛いか……？」
 `　"Does it still hurt?"@
 ;アルクェイドは答えない。
-;This line doesn't line break for some reason? Make it line break.
-;Scripter note; - break added, it continued on the same line due to a misplaced / at the end of the line
 `Arkaid doesn't answer.@ /
 ;ただ痛みに耐えている顔。
 `She simply bears the pain.\
@@ -1013,7 +1008,6 @@ ld c,":a;image\kohaku_c.jpg",4
 ;琥珀「この度は「月姫_」お予告フロッピーを購入していただきありがとうございました。私は遠野の家に仕える琥珀と申します」\
 `Kohaku: "Thank you very much for taking the opportunity to purchase the Tsukihime promotional floppy disk."\ 
 `Kohaku: "My name is Kohaku, and I'm one of the maids serving the Tohno family."\
-;Scripter note; - split "" since these are own "pages" in the ADV window (marked by \ at the end of a line)
 
 cl c,4
 ld c,":a;image\hisui_c.jpg",4
