@@ -16,7 +16,8 @@
 ;	定義ブロック開始
 ;-------------------------------------------------------------------------------
 *define
-
+;Dev note - What a mess the define sections of the original script and labels were all over the place, no wonder variables didn't apply at first
+;They probably hastily inserted the information block - merged the labels to get it out just in time for Comiket - Allu
 ;-------------------------------------------------------------------------------
 ;	実行ファイル設定
 ;-------------------------------------------------------------------------------
@@ -60,6 +61,9 @@ effectblank 50
 ;New clickstr for better EN read flow comptability
 clickstr ``, 2
 
+;Adds Auto mode support - text advances on it's own when toggled
+automode
+
 ;フォントの設定(デフォルトは"ＭＳ ゴシック")
 ;defaultfont "ＭＳ ゴシック"
 
@@ -72,6 +76,8 @@ menuselectcolor #ffffff,#808080,#808000
 ;右クリックしたときのメニューの設定
 rmenu `Image only`, windowerase, `Advance to next option`, skip, `Save`, save, `Load`, load, `Review mode`, lookback, `Start over`, reset
 
+;Dev note - surprisingly none of the click or select sound effects were used, not even on the original floppy version, these might've been remnants of Nscripter defaults at the time
+;Therefor there's no sound in this or any of the Trial versions, not even BGM
 ;クリック待ちでクリックしたときになる効果音
 ;clickvoice "click.wav"
 
@@ -379,8 +385,7 @@ return
 ;	スクリプトブロック開始
 ;-------------------------------------------------------------------------------
 *start
-;Toggles whether the game will launch in fullscreen or windowed - uncommented for modern system default
-;menu_full
+
 ;-------------------------------------------------------------------------------
 ;	TSUKIMAKES terms and conditions
 ;-------------------------------------------------------------------------------
