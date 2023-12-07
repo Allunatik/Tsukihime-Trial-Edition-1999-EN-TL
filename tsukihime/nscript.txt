@@ -1,3 +1,126 @@
+;gameid Tsukihime Trial
+;-------------------------------------------------------------------------------
+; Copyright (C) 1999,2000 TYPE-MOON AllRight Reserved.
+;
+;       TYPE-MOON Define File for NScripter Ver.1.05
+;
+;   title   : 月姫冬コミスクリプト - 定義ファイル
+;	file	: 0.txt
+;   written : N.Kiyotake
+;   start   : 1999/12/05
+;   update  : 1999/12/18
+;
+;-------------------------------------------------------------------------------
+
+;-------------------------------------------------------------------------------
+;	定義ブロック開始
+;-------------------------------------------------------------------------------
+*define
+
+;-------------------------------------------------------------------------------
+;	実行ファイル設定
+;-------------------------------------------------------------------------------
+;バージョン情報表示設定
+versionstr "Tsukihime", "TYPE-MOON"
+
+;マウスカーソル設定
+;mousecursor "cursor.cur"
+
+;ウィンドウタイトル
+caption "Tsukihime Trial Edition - Translated by Tsukimakes"
+
+;-------------------------------------------------------------------------------
+;	プラグインの読み込み
+;-------------------------------------------------------------------------------
+;jpegファイル用SusiePlagin
+spi "jpgplgin.dll|jpg"
+
+;-------------------------------------------------------------------------------
+;	エフェクトの設定 : effect 設定するエフェクト番号(1～), 効果番号(1～18)[, 時間, パターン画像名]
+;-------------------------------------------------------------------------------
+;ex.) 左シャッターエフェクト(2)を800ミリ秒で実行する -> 2番
+effect 2, 2, 800
+
+;3番 : ピクセル単位のクロスフェードを800msで実行
+effect 3, 10, 800
+effect 4, 10, 300
+
+;ex.) ウィンドウの出現時にピクセル単位のクロスフェードを500ミリ秒で実行する
+windoweffect 10, 500
+
+;エフェクトからの復帰時間を設定(50ミリ秒)
+effectblank 50
+
+;-------------------------------------------------------------------------------
+;	通常モード時の設定
+;-------------------------------------------------------------------------------
+;指定の文字を表示したら、クリック待ちを行う
+;もし、現在の行が画面の一番下(とひとつ上の行)であれば、改ページ待ちになる
+;clickstr "」。！？", 2
+;New clickstr for better EN read flow comptability
+clickstr ``, 2
+
+;フォントの設定(デフォルトは"ＭＳ ゴシック")
+;defaultfont "ＭＳ ゴシック"
+
+;選択肢に設定されている色 : マウスが上にある時, 無い時
+selectcolor #ffffff,#aaaaaa
+
+;右クリックメニューでの文字の色 : マウスが上にある時, 無い時, セーブファイルが無い時
+menuselectcolor #ffffff,#808080,#808000
+
+;右クリックしたときのメニューの設定
+rmenu `Image only`, windowerase, `Advance to next option`, skip, `Save`, save, `Load`, load, `Review mode`, lookback, `Start over`, reset
+
+;クリック待ちでクリックしたときになる効果音
+;clickvoice "click.wav"
+
+;メニュー選択時の効果音 : メニューが開くとき, メニューをキャンセルした時, 選択肢の上に移動した時
+;menuselectvoice "menuopen.wav", "menucancel.wav", "menuover.wav"
+
+;-------------------------------------------------------------------------------
+;	回想モード時の設定
+;-------------------------------------------------------------------------------
+;回想モード時のボタン用ビットマップ
+lookbackbutton "uoncur.bmp", "uoffcur.bmp", "doncur.bmp", "doffcur.bmp"
+
+;回想モード時の文字色
+lookbackcolor #ffff80
+
+;回想モード時にページをめくったときの効果音
+;lookbackvoice "turnover.wav"
+
+;-------------------------------------------------------------------------------
+;	エイリアス設定
+;-------------------------------------------------------------------------------
+
+;-------------------------------------------------------------------------------
+;	記録設定
+;-------------------------------------------------------------------------------
+;グローバル変数を保存する
+globalon
+
+;ファイルログを記録する
+filelog
+
+arc "arc.sar|scrunarc.dll"
+arc "arc1.sar|scrunarc.dll"
+
+; Tsukimakes variables
+numalias termsagreed,1218
+numalias informationcleared,1219
+numalias storyintrocleared,1220
+numalias charaintrocleared,1221
+numalias scenesamplecleared,1222
+numalias bonuscleared,1223
+numalias settingsmenu,1300
+
+;-------------------------------------------------------------------------------
+;	定義ブロック終了
+;-------------------------------------------------------------------------------
+game
+
+
 ;-------------------------------------------------------------------------------
 ; Copyright (C) 1999,2000 TYPE-MOON AllRight Reserved.
 ;
@@ -233,6 +356,7 @@ br
 `　In anticipation of the unreal life in store for him, as well as the fact that he now had to come to terms with his own ability, /
 ;ならない事に、憂鬱なため息をこぼしながら。\
 `Shiki let out a dejected sigh.@
+mov %storyintrocleared,1
 ;-------------------------------------------------------------------------------
 ;	スクリプトブロック終了
 ;-------------------------------------------------------------------------------
@@ -255,18 +379,51 @@ return
 ;	スクリプトブロック開始
 ;-------------------------------------------------------------------------------
 *start
-;Toggles wether the game will launch in fullscreen or windowed
-;menu_full
+
+;-------------------------------------------------------------------------------
+;	TSUKIMAKES terms and conditions
+;-------------------------------------------------------------------------------
+if %termsagreed==1 goto *agreedtoterms
+
+*agreetoterms
+`This English translation is meant to be used alongside legitimate copies of Tsukihime and its PLUS+DISC.\
+`By using this translation you agree to the following terms:@
+br
+`-You will NOT distribute this translation or parts of it with any illegitimate copies of Tsukihime or it's PLUS-DISC.@
+`-You will NOT distribute this translation behind any PPC links or paywalls.@
+`-You will NOT modify or distribute this translation as your own without crediting TSUKIMAKES.@
+br
+trap *agreetotermsclick
+`Do you agree to the terms above?
+trap off
+*agreetotermsclick
+select `Yes, i have read and agree to these terms`, *agreedtoterms,
+ `No, i do not agree to these terms`, *termsdisagreed
+
+*termsdisagreed
+end
+
+*agreedtoterms
+mov %termsagreed,1
+ 
+;-------------------------------------------------------------------------------
+;	End of script block
+;-------------------------------------------------------------------------------
 
 ;-------------------------------------------------------------------------------
 ;	メイン制御ブロック
 ;-------------------------------------------------------------------------------
 ;ロゴ表示
+*trialstart
+bg "image\tsukimakes_logo_intro.jpg", 3
+delay 2000
+
 bg "image\logo.jpg", 3
 delay 2000
 
-bg "image\tuki.jpg", 3
+bg "image\tuki_en.jpg", 3
 delay 2000
+
 
 *mainloop
 
@@ -363,121 +520,12 @@ br
 ;発売時期、販売形式の詳細はＨＰにて告知して行きますので、そちらを参考にしてください。\
 `　The details regarding release date and sales format will be announced on our website, so be sure to look there for more information.\
 
+mov %informationcleared,1
 ;--------------------------------------------+----------------------------------
 ;	スクリプトブロック終了
 ;--------------------------------------------+----------------------------------
 return
 
-;-------------------------------------------------------------------------------
-; Copyright (C) 1999,2000 TYPE-MOON AllRight Reserved.
-;
-;       TYPE-MOON Define File for NScripter Ver.1.05
-;
-;   title   : 月姫冬コミスクリプト - 定義ファイル
-;	file	: 0.txt
-;   written : N.Kiyotake
-;   start   : 1999/12/05
-;   update  : 1999/12/18
-;
-;-------------------------------------------------------------------------------
-
-;-------------------------------------------------------------------------------
-;	定義ブロック開始
-;-------------------------------------------------------------------------------
-*define
-
-;-------------------------------------------------------------------------------
-;	実行ファイル設定
-;-------------------------------------------------------------------------------
-;バージョン情報表示設定
-versionstr "Tsukihime", "TYPE-MOON"
-
-;マウスカーソル設定
-;mousecursor "cursor.cur"
-
-;ウィンドウタイトル
-caption "Tsukihime Trial Edition - Translated by Tsukimakes"
-
-;-------------------------------------------------------------------------------
-;	プラグインの読み込み
-;-------------------------------------------------------------------------------
-;jpegファイル用SusiePlagin
-spi "jpgplgin.dll|jpg"
-
-;-------------------------------------------------------------------------------
-;	エフェクトの設定 : effect 設定するエフェクト番号(1～), 効果番号(1～18)[, 時間, パターン画像名]
-;-------------------------------------------------------------------------------
-;ex.) 左シャッターエフェクト(2)を800ミリ秒で実行する -> 2番
-effect 2, 2, 800
-
-;3番 : ピクセル単位のクロスフェードを800msで実行
-effect 3, 10, 800
-effect 4, 10, 300
-
-;ex.) ウィンドウの出現時にピクセル単位のクロスフェードを500ミリ秒で実行する
-windoweffect 10, 500
-
-;エフェクトからの復帰時間を設定(50ミリ秒)
-effectblank 50
-
-;-------------------------------------------------------------------------------
-;	通常モード時の設定
-;-------------------------------------------------------------------------------
-;指定の文字を表示したら、クリック待ちを行う
-;もし、現在の行が画面の一番下(とひとつ上の行)であれば、改ページ待ちになる
-;clickstr "」。！？", 2
-;New clickstr for better EN read flow comptability
-clickstr ``, 2
-
-;フォントの設定(デフォルトは"ＭＳ ゴシック")
-;defaultfont "ＭＳ ゴシック"
-
-;選択肢に設定されている色 : マウスが上にある時, 無い時
-selectcolor #ffffff,#aaaaaa
-
-;右クリックメニューでの文字の色 : マウスが上にある時, 無い時, セーブファイルが無い時
-menuselectcolor #ffffff,#808080,#808000
-
-;右クリックしたときのメニューの設定
-rmenu `Image only`, windowerase, `Advance to next option`, skip, `Save`, save, `Load`, load, `Review mode`, lookback, `Start over`, reset
-
-;クリック待ちでクリックしたときになる効果音
-;clickvoice "click.wav"
-
-;メニュー選択時の効果音 : メニューが開くとき, メニューをキャンセルした時, 選択肢の上に移動した時
-;menuselectvoice "menuopen.wav", "menucancel.wav", "menuover.wav"
-
-;-------------------------------------------------------------------------------
-;	回想モード時の設定
-;-------------------------------------------------------------------------------
-;回想モード時のボタン用ビットマップ
-lookbackbutton "uoncur.bmp", "uoffcur.bmp", "doncur.bmp", "doffcur.bmp"
-
-;回想モード時の文字色
-lookbackcolor #ffff80
-
-;回想モード時にページをめくったときの効果音
-;lookbackvoice "turnover.wav"
-
-;-------------------------------------------------------------------------------
-;	エイリアス設定
-;-------------------------------------------------------------------------------
-
-;-------------------------------------------------------------------------------
-;	記録設定
-;-------------------------------------------------------------------------------
-;グローバル変数を保存する
-;globalon
-
-;ファイルログを記録する
-;filelog
-
-arc "arc.sar|scrunarc.dll"
-
-;-------------------------------------------------------------------------------
-;	定義ブロック終了
-;-------------------------------------------------------------------------------
-game
 
 ;-------------------------------------------------------------------------------
 ; Copyright (C) 1999,2000 TYPE-MOON AllRight Reserved.
@@ -527,7 +575,7 @@ bg "image\ark1.jpg",3
 ;そこいらの女の子とかわらないほど気さくな性格になる。
 `...her personality becomes so casual that she's no different from just about any normal girl.\
 ;好き嫌いをはっきりさせるし、口より手のほうが先に出/
-`Given how she always makes her preferences very clear and acts before thinking, 
+`Given how she always makes her preferences very clear and acts before thinking,\
 ;るあたりをみるとわりと直情的な性格であるらしい。
 `it seems she has a rather forthright personality.\
 
@@ -536,7 +584,7 @@ bg "image\ark1.jpg",3
 ;吸血鬼にあるまじき外見と体質をしていて、主人公に/
 `She is a pleasant girl with an appearance and temperament you'd never expect from a vampire.\
 ;いきなり殺されるというかつてない登場を\するさわやか/
-`She has a never-before-seen introduction scene, 
+`She has a never-before-seen introduction scene, /
 ;系のおんなのこ。\
 `where she gets suddenly killed by the protagonist.\
 
@@ -672,6 +720,7 @@ bg "image\kohaku.jpg",3
 `In spite of how dependable she can be, she is always causing problems for some reason.\
 ;なにかと猟奇猟奇している本編でのなごみ担当。…らしい。\
 `There to provide moments of respite from the rather grotesque story... apparently.\
+mov %charaintrocleared,1
 
 ;-------------------------------------------------------------------------------
 ;	スクリプトブロック終了
@@ -969,6 +1018,7 @@ br
 `However, there is now a sensual moaning coming form her.@ /
 ;痛みが半分…あとは、悦びが半分をしめているような。
 `Half of it pain...@ with the other half engulfed by pleasure.\
+mov %scenesamplecleared,1
 
 ;-------------------------------------------------------------------------------
 ;	スクリプトブロック終了
@@ -1182,7 +1232,25 @@ ld l,":a;image\hisui_c.jpg",4
 `Kohaku: "Ah, just kidding! It's totally okay. Let's goooo! (*sobs*)"@
 ;翡翠「♪」\
 `Hisui: (*Hums tune*)\
+mov %bonuscleared,1
+goto *creditcheck
 
+;-------------------------------------------------------------------------------
+;	TSUKIMAKES Credit sequence
+;-------------------------------------------------------------------------------
+*creditcheck
+if %informationcleared==1 && %storyintrocleared==1 && %charaintrocleared==1 && %scenesamplecleared==1 && %bonuscleared==1 goto *creditscene
+goto *mainloop
+
+*creditscene
+bg "image\tsukimakes_logo_credits.jpg", 3
+delay 5000
+bg "image\tsukimakes_credits.jpg", 3
+delay 10000
+goto *mainloop
+;-------------------------------------------------------------------------------
+;	End of script block
+;-------------------------------------------------------------------------------
 
 ;-------------------------------------------------------------------------------
 ;	スクリプトブロック終了
