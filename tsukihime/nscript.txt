@@ -379,7 +379,8 @@ return
 ;	スクリプトブロック開始
 ;-------------------------------------------------------------------------------
 *start
-
+;Toggles whether the game will launch in fullscreen or windowed - uncommented for modern system default
+;menu_full
 ;-------------------------------------------------------------------------------
 ;	TSUKIMAKES terms and conditions
 ;-------------------------------------------------------------------------------
