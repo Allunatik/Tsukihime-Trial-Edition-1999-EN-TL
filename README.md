@@ -2,10 +2,31 @@
 English translation project for Tsukihime's Winter Comiket Trial Edition released in 1999
 
 ## About
-Tsukihime (Trial Edition) is the first playable version of Tsukihime, first released during Comiket 57 (1999/12/24) in the form of 3.5″ floppy disks and later bundled in in Tsukihime's Half Moon Edition and Plus-Disc.
+This is a translation patch for the Trial version Of Tsukihime found in the PLUS-DISC
 
 ## Project
+Tsukihime (Trial Edition) is the first playable version of Tsukihime, first released during Comiket 57 (1999/12/24) in the form of 3.5″ floppy disks and later bundled in in Tsukihime's Half Moon Edition and Plus-Disc.
 This project's goal is to patch, restore and translate the 767 lines of gamescript of the trial edition as well as its graphical assets into English
+
+## Installation
+- Grab the latest [Release ](https://github.com/Allunatik/Tsukihime-Trial-Edition-1999-EN-TL/releases) and follow the included installation instructions in the readme
+
+## Credits
+
+[Translation - Petrikow](https://github.com/Petrikow)
+For their fine Translation work - Formatting
+
+[Engine work - Playmer - ONScripter-Fork](https://github.com/playmer/ONScripter-EN-Official)
+Thanks to Playmer for their work on bringing User Interface features to ONSCripter included in the Menubar and various other improvements
+
+[Scripting - Formatting - Image Editing - Allunatik](https://github.com/Allunatik)
+The projects Jack of all trades, it was a lot of fun working on all various sides of the project - managing it
+
+[ONScripter-EN](https://github.com/Galladite27/ONScripter-EN)
+And all involved with the original ONScripter that this project is based upon
+
+### Special Thanks
+To all involved supporting the project and bringing us all together, as well as Keripo and MoonlitArchives for helping with making sure there weren't changes made to the Trial over the many releases and bundles it had
 
 ## Build and DEV tools instructions
 
@@ -41,19 +62,6 @@ in the root folder execute
 In the decompiled sar folder execute
 sarmake arc.sar *
 
-
-## Translation cheat sheet
-```
-- ` Indicates the start of a English line
-- @ Continue prompt - pauses until click - can @ chain @ multiple on the same line
-- br - add empty line - i.e if adding spaces between two rows of text
-- \ page break (also works as a continue prompt) -  new blank page
-- "" Quotation marks need to be replaced with ` `
-- -- or ---- replace em lines, depending on their length
-- JP Full width spaces - 2x EN half width spaces, if mimicking long "pauses" add enough to fill space roughly
-- Max character count before a break: 745~
-- Lines: 15 (Absolute max)```
-```
 
 ### API
 If you wish to know further what a piece of script does
