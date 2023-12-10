@@ -1,6 +1,8 @@
 # Tsukihime Trial Edition 1999 English
 English translation project for Tsukihime's Winter Comiket Trial Edition released in 1999
 
+![TSUKIMAKES - Translation Group](https://i.imgur.com/gHc6BWi.jpg)
+
 ## About
 This is a translation patch for the Trial version Of Tsukihime found in the PLUS-DISC
 
