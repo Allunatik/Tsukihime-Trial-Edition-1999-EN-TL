@@ -609,7 +609,7 @@ bg "image\aki1.jpg",3
 ;年生。
 `and is in her first year of high school.\
 ;どこから見ても完璧な良家のお嬢様で、主人公と血が/
-`By all appearances, she is a model young lady from a well-off family.\ She is often told /
+`By all appearances, she is a model young lady from a well-off family.\She is often told /
 ;繋がっているのは何かの間違いとよくいわれる。
 `that her being related to the protagonist must be some kind of mistake.\
 ;まだ主人公が遠野の屋敷で暮らしていたころは仲が良/
@@ -696,7 +696,7 @@ bg "image\ciel2.jpg",3
 ;翡翠と琥珀
 bg "image\hisui.jpg",3
 ;　翡翠\
-`Hisui\
+`　Hisui\
 ;主人公の住む屋敷に仕えている、双子のメイドの一人。
 `One of the twin maids who serves at the mansion that the protagonist lives at.\
 ;屋敷の生活に慣れない主人公の世話役をすることに。
@@ -710,7 +710,7 @@ bg "image\hisui.jpg",3
 
 bg "image\kohaku.jpg",3
 ;　琥珀\
-`Kohaku\
+`　Kohaku\
 ;主人公が住む事になる屋敷に仕える双子のメイドの一人。
 `One of the twin maids who serves at the mansion that the protagonist lives at.\
 ;妹である秋葉つきのメイドで、屋敷の家事全般をとりしきっている。
@@ -868,7 +868,7 @@ br
 ;「…志貴、わたし、あつい」
 `　"Shiki... I'm, hot..."@
 ;とぎれとぎれに吐き出す吐息も紅く見える。
-`The intermittent breaths coming from are tinged as red as the rest.@ /
+`The intermittent breaths coming from her are tinged as red as the rest.@ /
 ;今目前にいるアルクェイドは、俺の知っているアルクェイドじゃない。
 `The Arkaid currently before my eyes is not the Arkaid I know.@ /
 ;ただ流れる金髪だけが、以前の彼女の面影をとどめている。\
@@ -1076,7 +1076,7 @@ ld l,":a;image\hisui_c.jpg",4
 `Kohaku: "By the way, development has been delayed. Ehehe... Just kidding."\
 `Kohaku: "Though I guess that's not something you can just laugh off, is it?"\
 `Kohaku: "Still, we're making steady progress."\
-`Kohaku:  "I hope everyone who is looking forward to the game,  or those who aren't, can wait a little longer."\
+`Kohaku: "I hope everyone who is looking forward to the game, or those who aren't, can wait a little longer."\
 ;翡翠「姉さん」
 `Hisui: "Nee-san."@
 ;琥珀「何？翡翠ちゃん」
@@ -1143,7 +1143,7 @@ ld r,":a;image\kohaku_c.jpg",4
 ld l,":a;image\hisui_c.jpg",4
 ;琥珀「大丈夫大丈夫。嘘は言ってないもん。例え一面的な捉え方だとしても、真実には変わりないのよ。翡翠ちゃんも覚えておきなさい。人なんてね、悪く言おうと思えばいくらでも悪く言えるんだから。それにここで正ヒロインを叩いておけば、後々あたし達のシナリオが出来やすくなると思うのよね」
 `Kohaku: "It's fine, it's fine. It's not like I'm lying or anything."\
-`Kohaku: "Even if it's one-sided way of seeing them, it doesn't change the truth of the matter."\
+`Kohaku: "Even if it's a one-sided way of seeing them, it doesn't change the truth of the matter."\
 `Kohaku: "Do well to understand this, Hisui-chan."\
 `Kohaku: "Anyone who wants to say bad things about people will say as many bad things as they like."\
 `Kohaku: "Also, if we bash the main heroines here, I think it'll be easier for us to get our own routes later."\
@@ -1182,7 +1182,7 @@ ld l,":a;image\hisui_c.jpg",4
 `Kohaku: "But the ephemeral and tragic music created by the sound lead fits the Tsukihime atmosphere like a glove."\
 `Kohaku: "It fits so well with the world that the story lead wanted to create that he's gone completely out of control."\
 `Kohaku: "And this is someone who is hard to put the brakes on even under normal circumstances."\
-`Kohaku: "It's really quite the situation."@\
+`Kohaku: "It's really quite the situation."\
 ;翡翠「システムは既存のツールを使うって…？」
 `Hisui: "I heard the engine is non-proprietary?"\
 ;琥珀「うんうん。高橋直樹さんのＮｓｃｒｉｐｔｅｒというフリーウェアを使わせてもらう予定です。現在プログラム担当が色々と模索中。今回の予告編も上記のソフトで作成してます。わかりやすくて多機能な優れものなのです。高橋さんありがとう」
