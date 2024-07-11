@@ -27,6 +27,9 @@ The projects Jack of all trades, it was a lot of fun working on all various side
 [ONScripter-EN](https://github.com/Galladite27/ONScripter-EN)
 And all involved with the original ONScripter that this project is based upon
 
+[TYPE-MOON](http://www.typemoon.org/works/taiken.html)
+Tsukihime Trial Edition - 99年冬コミ体験版
+
 ### Special Thanks
 To all involved supporting the project and bringing us all together, as well as Keripo and MoonlitArchives for helping with making sure there weren't changes made to the Trial over the many releases and bundles it had
 
