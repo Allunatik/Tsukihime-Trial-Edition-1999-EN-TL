@@ -1183,7 +1183,6 @@ ld l,":a;image\hisui_c.jpg",4
 `Kohaku: "It fits so well with the world that the story lead wanted to create that he's gone completely out of control."\
 `Kohaku: "And this is someone who is hard to put the brakes on even under normal circumstances."\
 `Kohaku: "It's really quite the situation."@\
-;Should probably linebreak here.
 ;翡翠「システムは既存のツールを使うって…？」
 `Hisui: "I heard the engine is non-proprietary?"\
 ;琥珀「うんうん。高橋直樹さんのＮｓｃｒｉｐｔｅｒというフリーウェアを使わせてもらう予定です。現在プログラム担当が色々と模索中。今回の予告編も上記のソフトで作成してます。わかりやすくて多機能な優れものなのです。高橋さんありがとう」
