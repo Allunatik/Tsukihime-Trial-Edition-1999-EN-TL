@@ -1181,7 +1181,7 @@ ld l,":a;image\hisui_c.jpg",4
 `Kohaku: "There'll probably be about 10 tracks. Sound-chip is still undecided."\
 `Kohaku: "But the ephemeral and tragic music created by the sound lead fits the Tsukihime atmosphere like a glove."\
 `Kohaku: "It fits so well with the world that the story lead wanted to create that he's gone completely out of control."\
-`Kohaku: "And this is someone who is hard to put the brakess on even under normal circumstances."\
+`Kohaku: "And this is someone who is hard to put the brakes on even under normal circumstances."\
 `Kohaku: "It's really quite the situation."@\
 ;Should probably linebreak here.
 ;翡翠「システムは既存のツールを使うって…？」
