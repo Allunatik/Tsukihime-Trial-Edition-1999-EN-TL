@@ -16,8 +16,7 @@
 ;	定義ブロック開始
 ;-------------------------------------------------------------------------------
 *define
-;Dev note - What a mess the define sections of the original script and labels were all over the place, no wonder variables didn't apply at first
-;They probably hastily inserted the information block - merged the labels to get it out just in time for Comiket - Allu
+
 ;-------------------------------------------------------------------------------
 ;	実行ファイル設定
 ;-------------------------------------------------------------------------------
@@ -61,9 +60,6 @@ effectblank 50
 ;New clickstr for better EN read flow comptability
 clickstr ``, 2
 
-;Adds Auto mode support - text advances on it's own when toggled
-automode
-
 ;フォントの設定(デフォルトは"ＭＳ ゴシック")
 ;defaultfont "ＭＳ ゴシック"
 
@@ -76,8 +72,6 @@ menuselectcolor #ffffff,#808080,#808000
 ;右クリックしたときのメニューの設定
 rmenu `Image only`, windowerase, `Advance to next option`, skip, `Save`, save, `Load`, load, `Review mode`, lookback, `Start over`, reset
 
-;Dev note - surprisingly none of the click or select sound effects were used, not even on the original floppy version, these might've been remnants of Nscripter defaults at the time
-;Therefor there's no sound in this or any of the Trial versions, not even BGM
 ;クリック待ちでクリックしたときになる効果音
 ;clickvoice "click.wav"
 
@@ -385,7 +379,8 @@ return
 ;	スクリプトブロック開始
 ;-------------------------------------------------------------------------------
 *start
-
+;Toggles whether the game will launch in fullscreen or windowed - uncommented for modern system default
+;menu_full
 ;-------------------------------------------------------------------------------
 ;	TSUKIMAKES terms and conditions
 ;-------------------------------------------------------------------------------
@@ -1116,7 +1111,7 @@ ld l,":a;image\hisui_c.jpg",4
 `Kohaku: "Really, really."\
 `Kohaku: "The two of them think they might dry up completely once they're done. All shriveled up."\
 ;翡翠「それだけ気合がはいってる？」
-`Hisui: "So they're giving it they're all, you mean?"\
+`Hisui: "So they're giving it their all, you mean?"\
 ;琥珀「うんうん。良いこと言うね、翡翠ちゃん。それじゃあ各ヒロインの魅力を説明しますね」\
 `Kohaku: "Wow, wow. What a nice thing to say, Hisui-chan."\
 `Kohaku: "Alright, time to explain each heroine's charm points, okay?"\
@@ -1186,7 +1181,7 @@ ld l,":a;image\hisui_c.jpg",4
 `Kohaku: "There'll probably be about 10 tracks. Sound-chip is still undecided."\
 `Kohaku: "But the ephemeral and tragic music created by the sound lead fits the Tsukihime atmosphere like a glove."\
 `Kohaku: "It fits so well with the world that the story lead wanted to create that he's gone completely out of control."\
-`Kohaku: "And this is someone who is hard to put the breaks on even under normal circumstances."\
+`Kohaku: "And this is someone who is hard to put the brakess on even under normal circumstances."\
 `Kohaku: "It's really quite the situation."@\
 ;Should probably linebreak here.
 ;翡翠「システムは既存のツールを使うって…？」
