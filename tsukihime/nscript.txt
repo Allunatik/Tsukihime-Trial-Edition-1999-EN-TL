@@ -355,7 +355,7 @@ br
 ;　これからまっている非現実な生活と、直視したくなかった自分の力と向きあわなくては/
 `　In anticipation of the unreal life in store for him, as well as the fact that he now had to come to terms with his own ability, /
 ;ならない事に、憂鬱なため息をこぼしながら。\
-`Shiki let out a dejected sigh.@
+`Shiki let out a dejected sigh.\
 mov %storyintrocleared,1
 ;-------------------------------------------------------------------------------
 ;	スクリプトブロック終了
